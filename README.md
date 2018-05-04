@@ -1,2 +1,2 @@
 # X-MART-Customer-Sales-Dataset
-X-Mart is having different malls in many city of India, where daily sales take place for various products. Here is a sample of our dataset could be used for analyis and other related work.
+X-Mart is having different malls in many city of India, where daily sales take place for various products. Here is a sample of our dataset could be used for analyis and other related work. There are many branch of X-MART is available in the whole country which contains millions of data. But here for the purpose of marketing analysis the sample of dataset uploaded here. 
