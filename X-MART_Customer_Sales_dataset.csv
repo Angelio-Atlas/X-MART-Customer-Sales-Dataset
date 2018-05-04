@@ -1,0 +1,500 @@
+CustomerAltID,CustomerName,Gender,ProductAltKey,ProductName,ProductActualCost,ProductSalesCost,StoreAltID,StoreName,StoreLocation,City,Sate,Country,SalesPersonAltID,SalesPersonName,StoreID,City,State,Country,SalesInvoiceNumber,SalesDateKey,SalesTimeKey,SalesTimeAltKey,StoreID,CustomerID,ProductID ,SalesPersonID,Quantity,ProductActualCost,SalesTotalCost,Deviation
+IMI-001,Henry Ford,M,ITM-001,Wheat Floor,5.5,6.5,LOC-A1,X-Mart,S.P. RingRoad,Ahmedabad,Guj,India,SP-DMSPR1,Ashish,1,Ahmedabad,Guj,India,1,20130101,44347,121907,1,1,1,1,2,11,13,2
+IMI-002,Bill Gates,M,ITM-002,Rice Grains,22.5,24,LOC-A2,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSPR2,Ketan,1,Ahmedabad,Guj,India,2,20130101,44519,122159,1,2,4,1,3,54,60,6
+IMI-003,Muskan Shaikh,F,ITM-003,SunFlower Oil,42,43.5,LOC-A4,X-Mart,Sivranjani,Ahmedabad,Guj,India,SP-DMNGR1,Srinivas,2,Ahmedabad,Guj,India,3,20130101,52415,143335,1,3,2,2,2,11,13,2
+IMI-004,Richard Thrubin,M,ITM-004,Nirma Soap,18,20,LOC-A5,X-Mart,RingRoad,Ahmedabad,Guj,India,SP-DMNGR2,Saad,2,Ahmedabad,Guj,India,4,20130101,52415,143335,1,3,3,2,1,42,43.5,1.5
+IMI-005,Emma Wattson,F,ITM-005,Arial Washing Powder,135,139,LOC-A6,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSVR1,Jasmin,3,Ahmedabad,Guj,India,5,20130101,52415,143335,1,3,4,2,3,54,56,2
+IMI-006,Aaban,M,ITM-006,Wheat Floor,21,25,LOC-A2,X-Mart,S.P. RingRoad,Ahmedabad,Guj,India,SP-DMSPR1,Ashish,2,Ahmedabad,Guj,India,6,20130101,44214,13243,2,4,5,3,2,11,13,2
+IMI-007,Aabha,F,ITM-007,Rice Grains,32,35,LOC-A1,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSPR2,Ketan,1,Ahmedabad,Guj,India,7,20130101,53423,13243,3,5,2,3,3,54,57,3
+IMI-008,Aabid,M,ITM-008,SunFlower Oil,50,55,LOC-A4,X-Mart,Sivranjani,Ahmedabad,Guj,India,SP-DMNGR1,Srinivas,1,Ahmedabad,Guj,India,8,20130101,55562,13243,3,6,3,5,2,11,13,2
+IMI-009,Aabriella,F,ITM-009,Nirma Soap,20,25,LOC-A2,X-Mart,RingRoad,Ahmedabad,Guj,India,SP-DMNGR2,Saad,1,Ahmedabad,Guj,India,9,20130101,44347,13243,3,7,1,5,1,42,44,2
+IMI-010,Aada,F,ITM-010,Arial Washing Powder,15.5,20,LOC-A1,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSVR1,Jasmin,1,Ahmedabad,Guj,India,10,20130101,44519,122435,4,8,6,4,3,54,56,2
+IMI-011,Aadam,M,ITM-011,Wheat Floor,5.5,7,LOC-A5,X-Mart,S.P. RingRoad,Ahmedabad,Guj,India,SP-DMSPR1,Abduljabbar,1,Ahmedabad,Guj,India,11,20130101,52415,122435,5,9,9,4,3,54,57,3
+IMI-012,Aadan,M,ITM-012,Rice Grains,22.5,24,LOC-A2,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSPR2,Abduljaleel,3,Ahmedabad,Guj,India,12,20130101,52415,122435,5,10,12,4,2,11,14,3
+IMI-013,Aadarsh,M,ITM-013,SunFlower Oil,42,45,LOC-A4,X-Mart,Sivranjani,Ahmedabad,Guj,India,SP-DMNGR1,Abduljalil,3,Ahmedabad,Guj,India,13,20130101,52415,122435,5,11,2,4,1,42,44,2
+IMI-014,Aaden,M,ITM-014,Nirma Soap,18,22,LOC-A1,X-Mart,RingRoad,Ahmedabad,Guj,India,SP-DMNGR2,Abdulkadir,3,Ahmedabad,Guj,India,14,20130101,44214,122435,5,12,3,1,3,54,67,13
+IMI-015,Aadesh,M,ITM-015,Arial Washing Powder,135,135,LOC-A1,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSVR1,Abdulkareem,2,Ahmedabad,Guj,India,15,20130101,53423,122435,4,13,4,1,2,11,13,2
+IMI-016,Aadhav,M,ITM-016,Wheat Floor,21,24,LOC-A2,X-Mart,S.P. RingRoad,Ahmedabad,Guj,India,SP-DMSPR1,Abdulkarim,2,Ahmedabad,Guj,India,16,20130101,55562,121907,4,14,1,1,3,54,58,4
+IMI-017,Aadhavan,M,ITM-017,Rice Grains,32,35,LOC-A3,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSPR2,Jasmin,2,Ahmedabad,Guj,India,17,20130101,44347,122159,1,15,1,1,2,11,14,3
+IMI-018,Aadhi,M,ITM-018,SunFlower Oil,50,53,LOC-A5,X-Mart,Sivranjani,Ahmedabad,Guj,India,SP-DMNGR1,Ashish,2,Ahmedabad,Guj,India,18,20130101,44519,143335,1,16,4,2,1,42,46,4
+IMI-019,Aadhira,F,ITM-019,Nirma Soap,20,23,LOC-A2,X-Mart,RingRoad,Ahmedabad,Guj,India,SP-DMNGR2,Ketan,1,Ahmedabad,Guj,India,19,20130101,52415,143335,1,17,5,2,2,11,13,2
+IMI-020,Aadhvik,M,ITM-020,Arial Washing Powder,15.5,18.5,LOC-A1,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSVR1,Abdulhakeem,1,Ahmedabad,Guj,India,20,20130101,52415,143335,1,18,1,2,3,54,60,6
+IMI-021,Aadhya,F,ITM-021,Wheat Floor,5.5,8.5,LOC-A5,X-Mart,S.P. RingRoad,Ahmedabad,Guj,India,SP-DMSPR1,Abdulhakim,2,Ahmedabad,Guj,India,21,20130101,52415,13243,1,19,4,2,2,11,13,2
+IMI-022,Aadhyan,M,ITM-022,Rice Grains,22.5,25.5,LOC-A2,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSPR2,Abdulhalim,2,Ahmedabad,Guj,India,22,20130101,44214,13243,2,20,2,3,1,42,43.5,1.5
+IMI-023,Aadi,M,ITM-023,SunFlower Oil,42,45,LOC-A4,X-Mart,Sivranjani,Ahmedabad,Guj,India,SP-DMNGR1,Abdulhameed,3,Ahmedabad,Guj,India,23,20130101,53423,13243,3,21,3,3,3,54,56,2
+IMI-024,Aadian,M,ITM-024,Nirma Soap,18,21,LOC-A1,X-Mart,RingRoad,Ahmedabad,Guj,India,SP-DMNGR2,Abdulhamid,2,Ahmedabad,Guj,India,24,20130101,55562,13243,3,22,4,1,2,11,13,2
+IMI-025,Aadil,M,ITM-025,Arial Washing Powder,135,138,LOC-A1,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSVR1,Abduljabbar,1,Ahmedabad,Guj,India,25,20130101,44347,122435,3,23,5,1,3,54,57,3
+IMI-026,Aadin,M,ITM-026,Wheat Floor,21,24,LOC-A2,X-Mart,S.P. RingRoad,Ahmedabad,Guj,India,SP-DMSPR1,Abduljaleel,1,Ahmedabad,Guj,India,26,20130101,44519,122435,4,24,2,2,2,11,13,2
+IMI-027,Aadish,M,ITM-027,Rice Grains,32,35,LOC-A3,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSPR2,Abduljalil,1,Ahmedabad,Guj,India,27,20130101,52415,122435,5,25,3,2,1,42,44,2
+IMI-028,Aadison,F,ITM-028,SunFlower Oil,50,53,LOC-A5,X-Mart,Sivranjani,Ahmedabad,Guj,India,SP-DMNGR1,Abdulkadir,1,Ahmedabad,Guj,India,28,20130101,52415,122435,5,26,1,2,3,54,56,2
+IMI-029,Aadit,M,ITM-029,Nirma Soap,20,23,LOC-A2,X-Mart,RingRoad,Ahmedabad,Guj,India,SP-DMNGR2,Abdulkareem,1,Ahmedabad,Guj,India,29,20130101,52415,122435,5,27,6,3,3,54,57,3
+IMI-030,Aadith,M,ITM-030,Arial Washing Powder,15.5,18.5,LOC-A1,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSVR1,Abdulkarim,3,Ahmedabad,Guj,India,30,20130101,44214,122435,5,28,9,3,2,11,14,3
+IMI-031,Aadithya,M,ITM-031,Wheat Floor,5.5,8.5,LOC-A5,X-Mart,S.P. RingRoad,Ahmedabad,Guj,India,SP-DMSPR1,Abdulkhaliq,3,Ahmedabad,Guj,India,31,20130101,53423,121907,4,29,12,5,1,42,44,2
+IMI-032,Aaditri,F,ITM-032,Rice Grains,22.5,25.5,LOC-A2,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSPR2,Abdull,3,Ahmedabad,Guj,India,32,20130101,55562,122159,4,30,2,5,3,54,67,13
+IMI-033,Aaditya,M,ITM-033,SunFlower Oil,42,45,LOC-A4,X-Mart,Sivranjani,Ahmedabad,Guj,India,SP-DMNGR1,Abdulla,2,Ahmedabad,Guj,India,33,20130101,44347,143335,1,31,3,4,2,11,13,2
+IMI-034,Aadiv,M,ITM-034,Nirma Soap,18,21,LOC-A1,X-Mart,RingRoad,Ahmedabad,Guj,India,SP-DMNGR2,Abdullah,2,Ahmedabad,Guj,India,34,20130101,44519,143335,1,32,4,4,3,54,58,4
+IMI-035,Aadon,M,ITM-035,Arial Washing Powder,135,138,LOC-A1,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSVR1,Abdullahi,2,Ahmedabad,Guj,India,35,20130101,52415,143335,1,33,1,4,2,11,14,3
+IMI-036,Aadrian,M,ITM-036,Wheat Floor,21,24,LOC-A2,X-Mart,S.P. RingRoad,Ahmedabad,Guj,India,SP-DMSPR1,Abdullatif,2,Ahmedabad,Guj,India,36,20130101,52415,13243,1,34,1,4,1,42,46,4
+IMI-037,Aadrika,F,ITM-037,Rice Grains,32,35,LOC-A3,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSPR2,Abdulloh,1,Ahmedabad,Guj,India,37,20130101,52415,13243,1,35,4,1,2,11,13,2
+IMI-038,Aadrit,M,ITM-038,SunFlower Oil,50,53,LOC-A5,X-Mart,Sivranjani,Ahmedabad,Guj,India,SP-DMNGR1,Abdulmajeed,1,Ahmedabad,Guj,India,38,20130101,44214,13243,2,36,5,1,3,54,60,6
+IMI-039,Aadvik,M,ITM-039,Nirma Soap,20,23,LOC-A2,X-Mart,RingRoad,Ahmedabad,Guj,India,SP-DMNGR2,Abdulmajid,2,Ahmedabad,Guj,India,39,20130101,53423,13243,3,37,11,1,2,11,13,2
+IMI-040,Aadvika,F,ITM-040,Arial Washing Powder,15.5,18.5,LOC-A1,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSVR1,Abdulmalek,2,Ahmedabad,Guj,India,40,20130101,55562,122435,3,38,7,1,1,42,43.5,1.5
+IMI-041,Aadya,F,ITM-041,Wheat Floor,5.5,8.5,LOC-A5,X-Mart,S.P. RingRoad,Ahmedabad,Guj,India,SP-DMSPR1,Abdulmalik,3,Ahmedabad,Guj,India,41,20130101,44347,122435,3,39,8,2,3,54,56,2
+IMI-042,Aadyn,M,ITM-042,Rice Grains,22.5,25.5,LOC-A2,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSPR2,Abdulmohsen,2,Ahmedabad,Guj,India,42,20130101,44519,122435,4,40,9,2,2,11,13,2
+IMI-043,Aafia,F,ITM-043,SunFlower Oil,42,45,LOC-A4,X-Mart,Sivranjani,Ahmedabad,Guj,India,SP-DMNGR1,Abdulnasir,1,Ahmedabad,Guj,India,43,20130101,52415,122435,5,41,13,2,3,54,57,3
+IMI-044,Aafreen,F,ITM-044,Nirma Soap,18,21,LOC-A1,X-Mart,RingRoad,Ahmedabad,Guj,India,SP-DMNGR2,Abdulqadir,1,Ahmedabad,Guj,India,44,20130101,52415,122435,5,42,1,2,2,11,13,2
+IMI-045,Aagam,M,ITM-045,Arial Washing Powder,135,138,LOC-A1,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSVR1,Abdulraheem,1,Ahmedabad,Guj,India,45,20130101,52415,122435,5,43,4,3,1,42,44,2
+IMI-046,Aage,M,ITM-046,Wheat Floor,21,24,LOC-A2,X-Mart,S.P. RingRoad,Ahmedabad,Guj,India,SP-DMSPR1,Abdulrahim,1,Ahmedabad,Guj,India,46,20130101,44214,121907,5,44,2,3,3,54,56,2
+IMI-047,Aagot,F,ITM-047,Rice Grains,32,35,LOC-A3,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSPR2,Abdulrahman,1,Ahmedabad,Guj,India,47,20130101,53423,122159,4,45,3,1,3,54,57,3
+IMI-048,Aahaan,M,ITM-048,SunFlower Oil,50,53,LOC-A5,X-Mart,Sivranjani,Ahmedabad,Guj,India,SP-DMNGR1,Abdulrazaq,3,Ahmedabad,Guj,India,48,20130101,55562,143335,4,46,4,1,2,11,14,3
+IMI-049,Aahan,M,ITM-049,Nirma Soap,20,23,LOC-A2,X-Mart,RingRoad,Ahmedabad,Guj,India,SP-DMNGR2,Abdulrehman,3,Ahmedabad,Guj,India,49,20130101,44347,143335,1,47,5,2,1,42,44,2
+IMI-050,Aahana,F,ITM-050,Arial Washing Powder,15.5,18.5,LOC-A1,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSVR1,Abdulrhman,3,Ahmedabad,Guj,India,50,20130101,44519,143335,1,48,2,2,3,54,67,13
+IMI-051,Aahil,M,ITM-051,Wheat Floor,5.5,8.5,LOC-A5,X-Mart,S.P. RingRoad,Ahmedabad,Guj,India,SP-DMSPR1,Abdulsalam,2,Ahmedabad,Guj,India,51,20130101,52415,13243,1,49,3,2,2,11,13,2
+IMI-052,Aahir,M,ITM-052,Rice Grains,22.5,25.5,LOC-A2,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSPR2,Abdulsamad,2,Ahmedabad,Guj,India,52,20130101,52415,13243,1,50,1,3,3,54,58,4
+IMI-053,Aahliyah,F,ITM-053,SunFlower Oil,42,45,LOC-A4,X-Mart,Sivranjani,Ahmedabad,Guj,India,SP-DMNGR1,Abdulwadud,2,Ahmedabad,Guj,India,53,20130101,52415,13243,1,51,6,3,2,11,14,3
+IMI-054,Aahna,F,ITM-054,Nirma Soap,18,21,LOC-A1,X-Mart,RingRoad,Ahmedabad,Guj,India,SP-DMNGR2,Abdulwahab,2,Ahmedabad,Guj,India,54,20130101,44214,13243,2,52,9,5,1,42,46,4
+IMI-055,Aahron,M,ITM-055,Arial Washing Powder,135,138,LOC-A1,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSVR1,Abdulwahid,1,Ahmedabad,Guj,India,55,20130101,53423,122435,3,53,12,5,2,11,13,2
+IMI-056,Aaidan,M,ITM-056,Wheat Floor,21,24,LOC-A2,X-Mart,S.P. RingRoad,Ahmedabad,Guj,India,SP-DMSPR1,Abdur,1,Ahmedabad,Guj,India,56,20130101,55562,122435,3,54,2,4,3,54,60,6
+IMI-057,Aaiden,M,ITM-057,Rice Grains,32,35,LOC-A3,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSPR2,Abdurahman,2,Ahmedabad,Guj,India,57,20130101,44347,122435,3,55,3,4,2,11,13,2
+IMI-058,Aaidyn,M,ITM-058,SunFlower Oil,50,53,LOC-A5,X-Mart,Sivranjani,Ahmedabad,Guj,India,SP-DMNGR1,Abdurahmon,2,Ahmedabad,Guj,India,58,20130101,44519,122435,4,56,4,4,1,42,43.5,1.5
+IMI-059,Aaila,F,ITM-059,Nirma Soap,20,23,LOC-A2,X-Mart,RingRoad,Ahmedabad,Guj,India,SP-DMNGR2,Abdurraheem,3,Ahmedabad,Guj,India,59,20130101,52415,122435,5,57,1,4,3,54,56,2
+IMI-060,Aailiyah,F,ITM-060,Arial Washing Powder,15.5,18.5,LOC-A1,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSVR1,Abdurrahim,2,Ahmedabad,Guj,India,60,20130101,52415,122435,5,58,1,1,2,11,13,2
+IMI-061,Aailyah,F,ITM-061,Wheat Floor,5.5,8.5,LOC-A5,X-Mart,S.P. RingRoad,Ahmedabad,Guj,India,SP-DMSPR1,Abdurrahmaan,1,Ahmedabad,Guj,India,61,20130101,52415,121907,5,59,4,1,3,54,57,3
+IMI-062,Aaima,F,ITM-062,Rice Grains,22.5,25.5,LOC-A2,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSPR2,Abdurrahman,1,Ahmedabad,Guj,India,62,20130101,44214,122159,5,60,5,1,2,11,13,2
+IMI-063,Aaira,F,ITM-063,SunFlower Oil,42,45,LOC-A4,X-Mart,Sivranjani,Ahmedabad,Guj,India,SP-DMNGR1,Abdurrehman,1,Ahmedabad,Guj,India,63,20130101,53423,143335,4,61,1,1,1,42,44,2
+IMI-064,Aairah,F,ITM-064,Nirma Soap,18,21,LOC-A1,X-Mart,RingRoad,Ahmedabad,Guj,India,SP-DMNGR2,Abdussamad,1,Ahmedabad,Guj,India,64,20130101,55562,143335,4,62,4,2,3,54,56,2
+IMI-065,Aaisha,F,ITM-065,Arial Washing Powder,135,138,LOC-A1,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSVR1,Abe,1,Ahmedabad,Guj,India,65,20130101,44347,143335,1,63,2,2,3,54,57,3
+IMI-066,Aaishah,F,ITM-066,Wheat Floor,21,24,LOC-A2,X-Mart,S.P. RingRoad,Ahmedabad,Guj,India,SP-DMSPR1,Abeal,3,Ahmedabad,Guj,India,66,20130101,44519,13243,1,64,3,2,2,11,14,3
+IMI-067,Aaiyana,F,ITM-067,Rice Grains,32,35,LOC-A3,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSPR2,Abed,3,Ahmedabad,Guj,India,67,20130101,52415,13243,1,65,4,2,1,42,44,2
+IMI-068,Aaiza,F,ITM-068,SunFlower Oil,50,53,LOC-A5,X-Mart,Sivranjani,Ahmedabad,Guj,India,SP-DMNGR1,Abedallah,3,Ahmedabad,Guj,India,68,20130101,52415,13243,1,66,5,3,3,54,67,13
+IMI-069,Aaja,F,ITM-069,Nirma Soap,20,23,LOC-A2,X-Mart,RingRoad,Ahmedabad,Guj,India,SP-DMNGR2,Abedalrahman,2,Ahmedabad,Guj,India,69,20130101,52415,13243,1,67,2,3,2,11,13,2
+IMI-070,Aajah,F,ITM-070,Arial Washing Powder,15.5,18.5,LOC-A1,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSVR1,Abednego,2,Ahmedabad,Guj,India,70,20130101,44214,122435,2,68,3,1,3,54,58,4
+IMI-071,Aajaylah,F,ITM-071,Wheat Floor,5.5,8.5,LOC-A5,X-Mart,S.P. RingRoad,Ahmedabad,Guj,India,SP-DMSPR1,Abeeha,2,Ahmedabad,Guj,India,71,20130101,53423,122435,3,69,1,1,2,11,14,3
+IMI-072,Aajon,M,ITM-072,Rice Grains,22.5,25.5,LOC-A2,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSPR2,Abeer,2,Ahmedabad,Guj,India,72,20130101,55562,122435,3,70,6,2,1,42,46,4
+IMI-073,Aakanksha,F,ITM-073,SunFlower Oil,42,45,LOC-A4,X-Mart,Sivranjani,Ahmedabad,Guj,India,SP-DMNGR1,Abeera,1,Ahmedabad,Guj,India,73,20130101,44347,122435,3,71,9,2,2,11,13,2
+IMI-074,Aakarsh,M,ITM-074,Nirma Soap,18,21,LOC-A1,X-Mart,RingRoad,Ahmedabad,Guj,India,SP-DMNGR2,Abegail,1,Ahmedabad,Guj,India,74,20130101,44519,122435,4,72,12,2,3,54,60,6
+IMI-075,Aakash,M,ITM-075,Arial Washing Powder,135,138,LOC-A1,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSVR1,Abegale,2,Ahmedabad,Guj,India,75,20130101,52415,122435,5,73,2,3,2,11,13,2
+IMI-076,Aakeem,M,ITM-076,Wheat Floor,21,24,LOC-A2,X-Mart,S.P. RingRoad,Ahmedabad,Guj,India,SP-DMSPR1,Abegayle,2,Ahmedabad,Guj,India,76,20130101,52415,121907,5,74,3,3,1,42,43.5,1.5
+IMI-077,Aakilah,F,ITM-077,Rice Grains,32,35,LOC-A3,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSPR2,Abel,3,Ahmedabad,Guj,India,77,20130101,52415,122159,5,75,4,5,3,54,56,2
+IMI-078,Aakira,F,ITM-078,SunFlower Oil,50,53,LOC-A5,X-Mart,Sivranjani,Ahmedabad,Guj,India,SP-DMNGR1,Abela,2,Ahmedabad,Guj,India,78,20130101,44214,143335,5,76,1,5,2,11,13,2
+IMI-079,Aakiyah,F,ITM-079,Nirma Soap,20,23,LOC-A2,X-Mart,RingRoad,Ahmedabad,Guj,India,SP-DMNGR2,Abelardo,1,Ahmedabad,Guj,India,79,20130101,53423,143335,4,77,1,4,3,54,57,3
+IMI-080,Aakriti,F,ITM-080,Arial Washing Powder,15.5,18.5,LOC-A1,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSVR1,Abelina,1,Ahmedabad,Guj,India,80,20130101,55562,143335,4,78,4,4,2,11,13,2
+IMI-081,Aala,F,ITM-081,Wheat Floor,5.5,8.5,LOC-A5,X-Mart,S.P. RingRoad,Ahmedabad,Guj,India,SP-DMSPR1,Abelino,1,Ahmedabad,Guj,India,81,20130101,44347,13243,1,79,5,4,1,42,44,2
+IMI-082,Aalaiya,F,ITM-082,Rice Grains,22.5,25.5,LOC-A2,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSPR2,Abell,1,Ahmedabad,Guj,India,82,20130101,44519,13243,1,80,11,4,3,54,56,2
+IMI-083,Aalaiyah,F,ITM-083,SunFlower Oil,42,45,LOC-A4,X-Mart,Sivranjani,Ahmedabad,Guj,India,SP-DMNGR1,Abella,1,Ahmedabad,Guj,India,83,20130101,52415,13243,1,81,7,1,3,54,57,3
+IMI-084,Aalana,F,ITM-084,Nirma Soap,18,21,LOC-A1,X-Mart,RingRoad,Ahmedabad,Guj,India,SP-DMNGR2,Abem,3,Ahmedabad,Guj,India,84,20130101,52415,13243,1,82,8,1,2,11,14,3
+IMI-085,Aalanah,F,ITM-085,Arial Washing Powder,135,138,LOC-A1,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSVR1,Aben,3,Ahmedabad,Guj,India,85,20130101,52415,122435,1,83,9,1,1,42,44,2
+IMI-086,Aalani,F,ITM-086,Wheat Floor,21,24,LOC-A2,X-Mart,S.P. RingRoad,Ahmedabad,Guj,India,SP-DMSPR1,Abena,3,Ahmedabad,Guj,India,86,20130101,44214,122435,2,84,13,1,3,54,67,13
+IMI-087,Aalap,M,ITM-087,Rice Grains,32,35,LOC-A3,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSPR2,Abenezer,2,Ahmedabad,Guj,India,87,20130101,53423,122435,3,85,1,2,2,11,13,2
+IMI-088,Aalaya,F,ITM-088,SunFlower Oil,50,53,LOC-A5,X-Mart,Sivranjani,Ahmedabad,Guj,India,SP-DMNGR1,Abeni,2,Ahmedabad,Guj,India,88,20130101,55562,122435,3,86,4,2,3,54,58,4
+IMI-089,Aalayah,F,ITM-089,Nirma Soap,20,23,LOC-A2,X-Mart,RingRoad,Ahmedabad,Guj,India,SP-DMNGR2,Aber,2,Ahmedabad,Guj,India,89,20130101,44347,122435,3,87,2,2,2,11,14,3
+IMI-090,Aalayiah,F,ITM-090,Arial Washing Powder,15.5,18.5,LOC-A1,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSVR1,Aberdeen,2,Ahmedabad,Guj,India,90,20130101,44519,122435,4,88,3,2,1,42,46,4
+IMI-091,Aalayjah,F,ITM-091,Wheat Floor,5.5,8.5,LOC-A5,X-Mart,S.P. RingRoad,Ahmedabad,Guj,India,SP-DMSPR1,Aberham,1,Ahmedabad,Guj,India,91,20130101,52415,121907,5,89,4,3,2,11,13,2
+IMI-092,Aalayna,F,ITM-092,Rice Grains,22.5,25.5,LOC-A2,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSPR2,Abernathy,1,Ahmedabad,Guj,India,92,20130101,52415,122159,5,90,5,3,3,54,60,6
+IMI-093,Aalaysha,F,ITM-093,SunFlower Oil,42,45,LOC-A4,X-Mart,Sivranjani,Ahmedabad,Guj,India,SP-DMNGR1,Abert,2,Ahmedabad,Guj,India,93,20130101,52415,143335,5,91,2,1,2,11,13,2
+IMI-094,Aalaysia,F,ITM-094,Nirma Soap,18,21,LOC-A1,X-Mart,RingRoad,Ahmedabad,Guj,India,SP-DMNGR2,Abery,2,Ahmedabad,Guj,India,94,20130101,44214,143335,5,92,3,1,1,42,43.5,1.5
+IMI-095,Aalea,F,ITM-095,Arial Washing Powder,135,138,LOC-A1,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSVR1,Abey,3,Ahmedabad,Guj,India,95,20130101,53423,143335,4,93,1,2,3,54,56,2
+IMI-096,Aaleah,F,ITM-096,Wheat Floor,21,24,LOC-A2,X-Mart,S.P. RingRoad,Ahmedabad,Guj,India,SP-DMSPR1,Abgail,2,Ahmedabad,Guj,India,96,20130101,55562,13243,4,94,6,2,2,11,13,2
+IMI-097,Aaleahya,F,ITM-097,Rice Grains,32,35,LOC-A3,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSPR2,Abha,1,Ahmedabad,Guj,India,97,20130101,44347,13243,1,95,9,2,3,54,57,3
+IMI-098,Aaleena,F,ITM-098,SunFlower Oil,50,53,LOC-A5,X-Mart,Sivranjani,Ahmedabad,Guj,India,SP-DMNGR1,Abhay,1,Ahmedabad,Guj,India,98,20130101,44519,13243,1,96,12,3,2,11,13,2
+IMI-099,Aaleeya,F,ITM-099,Nirma Soap,20,23,LOC-A2,X-Mart,RingRoad,Ahmedabad,Guj,India,SP-DMNGR2,Abheek,1,Ahmedabad,Guj,India,99,20130101,52415,13243,1,97,2,3,1,42,44,2
+IMI-100,Aaleeyah,F,ITM-100,Arial Washing Powder,15.5,18.5,LOC-A1,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSVR1,Abhi,1,Ahmedabad,Guj,India,100,20130101,52415,122435,1,98,3,5,3,54,56,2
+IMI-101,Aaleiah,F,ITM-101,Wheat Floor,5.5,8.5,LOC-A5,X-Mart,S.P. RingRoad,Ahmedabad,Guj,India,SP-DMSPR1,Abhigna,1,Ahmedabad,Guj,India,101,20130101,52415,122435,1,99,4,5,3,54,57,3
+IMI-102,Aaleigha,F,ITM-102,Rice Grains,22.5,25.5,LOC-A2,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSPR2,Abhijay,3,Ahmedabad,Guj,India,102,20130101,44214,122435,2,100,1,4,2,11,14,3
+IMI-103,Aaleiyah,F,ITM-103,SunFlower Oil,42,45,LOC-A4,X-Mart,Sivranjani,Ahmedabad,Guj,India,SP-DMNGR1,Abhijeet,3,Ahmedabad,Guj,India,103,20130101,53423,122435,3,101,1,4,1,42,44,2
+IMI-104,Aalena,F,ITM-104,Nirma Soap,18,21,LOC-A1,X-Mart,RingRoad,Ahmedabad,Guj,India,SP-DMNGR2,Abhijit,3,Ahmedabad,Guj,India,104,20130101,55562,122435,3,102,4,4,3,54,67,13
+IMI-105,Aalexis,F,ITM-105,Arial Washing Powder,135,138,LOC-A1,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSVR1,Abhijot,2,Ahmedabad,Guj,India,105,20130101,44347,122435,3,103,5,4,2,11,13,2
+IMI-106,Aalexus,F,ITM-106,Wheat Floor,21,24,LOC-A2,X-Mart,S.P. RingRoad,Ahmedabad,Guj,India,SP-DMSPR1,Abhik,2,Ahmedabad,Guj,India,106,20130101,44519,121907,4,104,1,1,3,54,58,4
+IMI-107,Aaleya,F,ITM-107,Rice Grains,32,35,LOC-A3,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSPR2,Abhilash,2,Ahmedabad,Guj,India,107,20130101,52415,122159,5,105,4,1,2,11,14,3
+IMI-108,Aaleyah,F,ITM-108,SunFlower Oil,50,53,LOC-A5,X-Mart,Sivranjani,Ahmedabad,Guj,India,SP-DMNGR1,Abhimanyu,2,Ahmedabad,Guj,India,108,20130101,52415,143335,5,106,2,1,1,42,46,4
+IMI-109,Aali,M,ITM-109,Nirma Soap,20,23,LOC-A2,X-Mart,RingRoad,Ahmedabad,Guj,India,SP-DMNGR2,Abhinav,1,Ahmedabad,Guj,India,109,20130101,52415,143335,5,107,3,1,2,11,13,2
+IMI-110,Aalia,F,ITM-110,Arial Washing Powder,15.5,18.5,LOC-A1,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSVR1,Abhinay,1,Ahmedabad,Guj,India,110,20130101,44214,143335,5,108,4,2,3,54,60,6
+IMI-111,Aaliah,F,ITM-111,Wheat Floor,5.5,8.5,LOC-A5,X-Mart,S.P. RingRoad,Ahmedabad,Guj,India,SP-DMSPR1,Abhinaya,2,Ahmedabad,Guj,India,111,20130101,53423,13243,4,109,5,2,2,11,13,2
+IMI-112,Aaliana,F,ITM-112,Rice Grains,22.5,25.5,LOC-A2,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSPR2,Abhiraam,2,Ahmedabad,Guj,India,112,20130101,55562,13243,4,110,2,2,1,42,43.5,1.5
+IMI-113,Aalias,M,ITM-113,SunFlower Oil,42,45,LOC-A4,X-Mart,Sivranjani,Ahmedabad,Guj,India,SP-DMNGR1,Abhiraj,3,Ahmedabad,Guj,India,113,20130101,44347,13243,1,111,3,2,3,54,56,2
+IMI-114,Aaliayah,F,ITM-114,Nirma Soap,18,21,LOC-A1,X-Mart,RingRoad,Ahmedabad,Guj,India,SP-DMNGR2,Abhiram,2,Ahmedabad,Guj,India,114,20130101,44519,13243,1,112,1,3,2,11,13,2
+IMI-115,Aaliayh,F,ITM-115,Arial Washing Powder,135,138,LOC-A1,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSVR1,Abhirup,1,Ahmedabad,Guj,India,115,20130101,52415,122435,1,113,6,3,3,54,57,3
+IMI-116,Aalicia,F,ITM-116,Wheat Floor,21,24,LOC-A2,X-Mart,S.P. RingRoad,Ahmedabad,Guj,India,SP-DMSPR1,Abhishek,1,Ahmedabad,Guj,India,116,20130101,52415,122435,1,114,9,1,2,11,13,2
+IMI-117,Aaliha,F,ITM-117,Rice Grains,32,35,LOC-A3,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSPR2,Abhyuday,1,Ahmedabad,Guj,India,117,20130101,52415,122435,1,115,12,1,1,42,44,2
+IMI-118,Aalijah,M,ITM-118,SunFlower Oil,50,53,LOC-A5,X-Mart,Sivranjani,Ahmedabad,Guj,India,SP-DMNGR1,Abi,1,Ahmedabad,Guj,India,118,20130101,44214,122435,2,116,2,2,3,54,56,2
+IMI-119,Aalim,M,ITM-119,Nirma Soap,20,23,LOC-A2,X-Mart,RingRoad,Ahmedabad,Guj,India,SP-DMNGR2,Abia,1,Ahmedabad,Guj,India,119,20130101,53423,122435,3,117,3,2,3,54,57,3
+IMI-120,Aalimah,F,ITM-120,Arial Washing Powder,15.5,18.5,LOC-A1,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSVR1,Abiageal,3,Ahmedabad,Guj,India,120,20130101,55562,122435,3,118,4,2,2,11,14,3
+IMI-121,Aalina,F,ITM-121,Wheat Floor,5.5,8.5,LOC-A5,X-Mart,S.P. RingRoad,Ahmedabad,Guj,India,SP-DMSPR1,Abiah,3,Ahmedabad,Guj,India,121,20130101,44347,121907,3,119,1,3,1,42,44,2
+IMI-122,Aalinah,F,ITM-122,Rice Grains,22.5,25.5,LOC-A2,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSPR2,Abian,3,Ahmedabad,Guj,India,122,20130101,44519,122159,4,120,1,3,3,54,67,13
+IMI-123,Aalisa,F,ITM-123,SunFlower Oil,42,45,LOC-A4,X-Mart,Sivranjani,Ahmedabad,Guj,India,SP-DMNGR1,Abianna,2,Ahmedabad,Guj,India,123,20130101,52415,143335,5,121,4,5,2,11,13,2
+IMI-124,Aalisha,F,ITM-124,Nirma Soap,18,21,LOC-A1,X-Mart,RingRoad,Ahmedabad,Guj,India,SP-DMNGR2,Abibail,2,Ahmedabad,Guj,India,124,20130101,52415,143335,5,122,5,5,3,54,58,4
+IMI-125,Aalivia,F,ITM-125,Arial Washing Powder,135,138,LOC-A1,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSVR1,Abid,2,Ahmedabad,Guj,India,125,20130101,52415,143335,5,123,11,4,2,11,14,3
+IMI-126,Aaliya,F,ITM-126,Wheat Floor,21,24,LOC-A2,X-Mart,S.P. RingRoad,Ahmedabad,Guj,India,SP-DMSPR1,Abida,2,Ahmedabad,Guj,India,126,20130101,44214,13243,5,124,7,4,1,42,46,4
+IMI-127,Aaliyaa,F,ITM-127,Rice Grains,32,35,LOC-A3,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSPR2,Abidah,1,Ahmedabad,Guj,India,127,20130101,53423,13243,4,125,8,4,2,11,13,2
+IMI-128,Aaliyah,F,ITM-128,SunFlower Oil,50,53,LOC-A5,X-Mart,Sivranjani,Ahmedabad,Guj,India,SP-DMNGR1,Abidan,1,Ahmedabad,Guj,India,128,20130101,55562,13243,4,126,9,4,3,54,60,6
+IMI-129,Aaliyaha,F,ITM-129,Nirma Soap,20,23,LOC-A2,X-Mart,RingRoad,Ahmedabad,Guj,India,SP-DMNGR2,Abie,2,Ahmedabad,Guj,India,129,20130101,44347,13243,1,127,13,1,2,11,13,2
+IMI-130,Aaliyahmarie,F,ITM-130,Arial Washing Powder,15.5,18.5,LOC-A1,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSVR1,Abiegail,2,Ahmedabad,Guj,India,130,20130101,44519,122435,1,128,1,1,1,42,43.5,1.5
+IMI-131,Aaliyahrose,F,ITM-131,Wheat Floor,5.5,8.5,LOC-A5,X-Mart,S.P. RingRoad,Ahmedabad,Guj,India,SP-DMSPR1,Abiel,3,Ahmedabad,Guj,India,131,20130101,52415,122435,1,129,4,1,3,54,56,2
+IMI-132,Aaliyan,F,ITM-132,Rice Grains,22.5,25.5,LOC-A2,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSPR2,Abiela,2,Ahmedabad,Guj,India,132,20130101,52415,122435,1,130,2,1,2,11,13,2
+IMI-133,Aaliyana,F,ITM-133,SunFlower Oil,42,45,LOC-A4,X-Mart,Sivranjani,Ahmedabad,Guj,India,SP-DMNGR1,Abiella,1,Ahmedabad,Guj,India,133,20130101,52415,122435,1,131,3,2,3,54,57,3
+IMI-134,Aaliyanna,F,ITM-134,Nirma Soap,18,21,LOC-A1,X-Mart,RingRoad,Ahmedabad,Guj,India,SP-DMNGR2,Abiezer,1,Ahmedabad,Guj,India,134,20130101,44214,122435,2,132,4,2,2,11,13,2
+IMI-135,Aaliyha,F,ITM-135,Arial Washing Powder,135,138,LOC-A1,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSVR1,Abigael,1,Ahmedabad,Guj,India,135,20130101,53423,122435,3,133,5,2,1,42,44,2
+IMI-136,Aaliyiah,F,ITM-136,Wheat Floor,21,24,LOC-A2,X-Mart,S.P. RingRoad,Ahmedabad,Guj,India,SP-DMSPR1,Abigaelle,1,Ahmedabad,Guj,India,136,20130101,55562,121907,3,134,2,2,3,54,56,2
+IMI-137,Aalliyah,F,ITM-137,Rice Grains,32,35,LOC-A3,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSPR2,Abigahil,1,Ahmedabad,Guj,India,137,20130101,44347,122159,3,135,3,3,3,54,57,3
+IMI-138,Aallyah,F,ITM-138,SunFlower Oil,50,53,LOC-A5,X-Mart,Sivranjani,Ahmedabad,Guj,India,SP-DMNGR1,Abigai,3,Ahmedabad,Guj,India,138,20130101,44519,143335,4,136,1,3,2,11,14,3
+IMI-139,Aalok,M,ITM-139,Nirma Soap,20,23,LOC-A2,X-Mart,RingRoad,Ahmedabad,Guj,India,SP-DMNGR2,Abigail,3,Ahmedabad,Guj,India,139,20130101,52415,143335,5,137,6,1,1,42,44,2
+IMI-140,Aalon,M,ITM-140,Arial Washing Powder,15.5,18.5,LOC-A1,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSVR1,Abigaile,3,Ahmedabad,Guj,India,140,20130101,52415,143335,5,138,9,1,3,54,67,13
+IMI-141,Aalya,F,ITM-141,Wheat Floor,5.5,8.5,LOC-A5,X-Mart,S.P. RingRoad,Ahmedabad,Guj,India,SP-DMSPR1,Abigailgrace,2,Ahmedabad,Guj,India,141,20130101,52415,13243,5,139,12,2,2,11,13,2
+IMI-142,Aalyah,F,ITM-142,Rice Grains,22.5,25.5,LOC-A2,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSPR2,Abigaille,2,Ahmedabad,Guj,India,142,20130101,44214,13243,5,140,2,2,3,54,58,4
+IMI-143,Aalycia,F,ITM-143,SunFlower Oil,42,45,LOC-A4,X-Mart,Sivranjani,Ahmedabad,Guj,India,SP-DMNGR1,Abigailmarie,2,Ahmedabad,Guj,India,143,20130101,53423,13243,4,141,3,2,2,11,14,3
+IMI-144,Aalyha,F,ITM-144,Nirma Soap,18,21,LOC-A1,X-Mart,RingRoad,Ahmedabad,Guj,India,SP-DMNGR2,Abigailrose,2,Ahmedabad,Guj,India,144,20130101,55562,13243,4,142,4,3,1,42,46,4
+IMI-145,Aalyia,F,ITM-145,Arial Washing Powder,135,138,LOC-A1,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSVR1,Abigal,1,Ahmedabad,Guj,India,145,20130101,44347,122435,1,143,1,3,2,11,13,2
+IMI-146,Aalyiah,F,ITM-146,Wheat Floor,21,24,LOC-A2,X-Mart,S.P. RingRoad,Ahmedabad,Guj,India,SP-DMSPR1,Abigale,1,Ahmedabad,Guj,India,146,20130101,44519,122435,1,144,1,5,3,54,60,6
+IMI-147,Aalyna,F,ITM-147,Rice Grains,32,35,LOC-A3,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSPR2,Abigayil,2,Ahmedabad,Guj,India,147,20130101,52415,122435,1,145,4,5,2,11,13,2
+IMI-148,Aalysia,F,ITM-148,SunFlower Oil,50,53,LOC-A5,X-Mart,Sivranjani,Ahmedabad,Guj,India,SP-DMNGR1,Abigayl,2,Ahmedabad,Guj,India,148,20130101,52415,122435,1,146,5,4,1,42,43.5,1.5
+IMI-149,Aalyssa,F,ITM-149,Nirma Soap,20,23,LOC-A2,X-Mart,RingRoad,Ahmedabad,Guj,India,SP-DMNGR2,Abigayle,3,Ahmedabad,Guj,India,149,20130101,52415,122435,1,147,1,4,3,54,56,2
+IMI-150,Aalyvia,F,ITM-150,Arial Washing Powder,15.5,18.5,LOC-A1,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSVR1,Abigeal,2,Ahmedabad,Guj,India,150,20130101,44214,122435,2,148,4,4,2,11,13,2
+IMI-151,Aamanda,F,ITM-151,Wheat Floor,5.5,8.5,LOC-A5,X-Mart,S.P. RingRoad,Ahmedabad,Guj,India,SP-DMSPR1,Abigel,1,Ahmedabad,Guj,India,151,20130101,53423,121907,3,149,2,4,3,54,57,3
+IMI-152,Aamanee,F,ITM-152,Rice Grains,22.5,25.5,LOC-A2,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSPR2,Abigial,1,Ahmedabad,Guj,India,152,20130101,55562,122159,3,150,3,1,2,11,13,2
+IMI-153,Aamani,F,ITM-153,SunFlower Oil,42,45,LOC-A4,X-Mart,Sivranjani,Ahmedabad,Guj,India,SP-DMNGR1,Abiha,1,Ahmedabad,Guj,India,153,20130101,44347,143335,3,151,4,1,1,42,44,2
+IMI-154,Aamar,M,ITM-154,Nirma Soap,18,21,LOC-A1,X-Mart,RingRoad,Ahmedabad,Guj,India,SP-DMNGR2,Abihail,1,Ahmedabad,Guj,India,154,20130101,44519,143335,4,152,5,1,3,54,56,2
+IMI-155,Aamari,M,ITM-155,Arial Washing Powder,135,138,LOC-A1,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSVR1,Abijah,1,Ahmedabad,Guj,India,155,20130101,52415,143335,5,153,2,1,3,54,57,3
+IMI-156,Aamarion,M,ITM-156,Wheat Floor,21,24,LOC-A2,X-Mart,S.P. RingRoad,Ahmedabad,Guj,India,SP-DMSPR1,Abilene,3,Ahmedabad,Guj,India,156,20130101,52415,13243,5,154,3,2,2,11,14,3
+IMI-157,Aamaya,F,ITM-157,Rice Grains,32,35,LOC-A3,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSPR2,Abilgail,3,Ahmedabad,Guj,India,157,20130101,52415,13243,5,155,1,2,1,42,44,2
+IMI-158,Aamber,F,ITM-158,SunFlower Oil,50,53,LOC-A5,X-Mart,Sivranjani,Ahmedabad,Guj,India,SP-DMNGR1,Abilio,3,Ahmedabad,Guj,India,158,20130101,44214,13243,5,156,6,2,3,54,67,13
+IMI-159,Aamena,F,ITM-159,Nirma Soap,20,23,LOC-A2,X-Mart,RingRoad,Ahmedabad,Guj,India,SP-DMNGR2,Abilyn,2,Ahmedabad,Guj,India,159,20130101,53423,13243,4,157,9,2,2,11,13,2
+IMI-160,Aamer,M,ITM-160,Arial Washing Powder,15.5,18.5,LOC-A1,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSVR1,Abilynn,2,Ahmedabad,Guj,India,160,20130101,55562,122435,4,158,12,3,3,54,58,4
+IMI-161,Aamia,F,ITM-161,Wheat Floor,5.5,8.5,LOC-A5,X-Mart,S.P. RingRoad,Ahmedabad,Guj,India,SP-DMSPR1,Abimael,2,Ahmedabad,Guj,India,161,20130101,44347,122435,1,159,2,3,2,11,14,3
+IMI-162,Aamil,M,ITM-162,Rice Grains,22.5,25.5,LOC-A2,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSPR2,Abimbola,2,Ahmedabad,Guj,India,162,20130101,44519,122435,1,160,3,1,1,42,46,4
+IMI-163,Aamilah,F,ITM-163,SunFlower Oil,42,45,LOC-A4,X-Mart,Sivranjani,Ahmedabad,Guj,India,SP-DMNGR1,Abimelec,1,Ahmedabad,Guj,India,163,20130101,52415,122435,1,161,4,1,2,11,13,2
+IMI-164,Aamina,F,ITM-164,Nirma Soap,18,21,LOC-A1,X-Mart,RingRoad,Ahmedabad,Guj,India,SP-DMNGR2,Abin,1,Ahmedabad,Guj,India,164,20130101,52415,122435,1,162,1,2,3,54,60,6
+IMI-165,Aaminah,F,ITM-165,Arial Washing Powder,135,138,LOC-A1,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSVR1,Abinadab,2,Ahmedabad,Guj,India,165,20130101,52415,122435,1,163,1,2,2,11,13,2
+IMI-166,Aamir,M,ITM-166,Wheat Floor,21,24,LOC-A2,X-Mart,S.P. RingRoad,Ahmedabad,Guj,India,SP-DMSPR1,Abinadi,2,Ahmedabad,Guj,India,166,20130101,44214,121907,2,164,4,2,1,42,43.5,1.5
+IMI-167,Aamira,F,ITM-167,Rice Grains,32,35,LOC-A3,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSPR2,Abinav,3,Ahmedabad,Guj,India,167,20130101,53423,122159,3,165,5,3,3,54,56,2
+IMI-168,Aamirah,F,ITM-168,SunFlower Oil,50,53,LOC-A5,X-Mart,Sivranjani,Ahmedabad,Guj,India,SP-DMNGR1,Abinaya,2,Ahmedabad,Guj,India,168,20130101,55562,143335,3,166,11,3,2,11,13,2
+IMI-169,Aamiya,F,ITM-169,Nirma Soap,20,23,LOC-A2,X-Mart,RingRoad,Ahmedabad,Guj,India,SP-DMNGR2,Abiodun,1,Ahmedabad,Guj,India,169,20130101,44347,143335,3,167,7,5,3,54,57,3
+IMI-170,Aamiyah,F,ITM-170,Arial Washing Powder,15.5,18.5,LOC-A1,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSVR1,Abiola,1,Ahmedabad,Guj,India,170,20130101,44519,143335,4,168,8,5,2,11,13,2
+IMI-171,Aamna,F,ITM-171,Wheat Floor,5.5,8.5,LOC-A5,X-Mart,S.P. RingRoad,Ahmedabad,Guj,India,SP-DMSPR1,Abiona,1,Ahmedabad,Guj,India,171,20130101,52415,13243,5,169,9,4,1,42,44,2
+IMI-172,Aamoni,F,ITM-172,Rice Grains,22.5,25.5,LOC-A2,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSPR2,Abir,1,Ahmedabad,Guj,India,172,20130101,52415,13243,5,170,13,4,3,54,56,2
+IMI-173,Aamori,F,ITM-173,SunFlower Oil,42,45,LOC-A4,X-Mart,Sivranjani,Ahmedabad,Guj,India,SP-DMNGR1,Abira,1,Ahmedabad,Guj,India,173,20130101,52415,13243,5,171,1,4,3,54,57,3
+IMI-174,Aamya,F,ITM-174,Nirma Soap,18,21,LOC-A1,X-Mart,RingRoad,Ahmedabad,Guj,India,SP-DMNGR2,Abiram,3,Ahmedabad,Guj,India,174,20130101,44214,13243,5,172,4,4,2,11,14,3
+IMI-175,Aamyah,F,ITM-175,Arial Washing Powder,135,138,LOC-A1,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSVR1,Abirami,3,Ahmedabad,Guj,India,175,20130101,53423,122435,4,173,2,1,1,42,44,2
+IMI-176,Aana,F,ITM-176,Wheat Floor,21,24,LOC-A2,X-Mart,S.P. RingRoad,Ahmedabad,Guj,India,SP-DMSPR1,Abisag,3,Ahmedabad,Guj,India,176,20130101,55562,122435,4,174,3,1,3,54,67,13
+IMI-177,Aanand,M,ITM-177,Rice Grains,32,35,LOC-A3,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSPR2,Abisai,2,Ahmedabad,Guj,India,177,20130101,44347,122435,1,175,4,1,2,11,13,2
+IMI-178,Aanav,M,ITM-178,SunFlower Oil,50,53,LOC-A5,X-Mart,Sivranjani,Ahmedabad,Guj,India,SP-DMNGR1,Abish,2,Ahmedabad,Guj,India,178,20130101,44519,122435,1,176,5,1,3,54,58,4
+IMI-179,Aanaya,F,ITM-179,Nirma Soap,20,23,LOC-A2,X-Mart,RingRoad,Ahmedabad,Guj,India,SP-DMNGR2,Abisha,2,Ahmedabad,Guj,India,179,20130101,52415,122435,1,177,2,2,2,11,14,3
+IMI-180,Aanchal,F,ITM-180,Arial Washing Powder,15.5,18.5,LOC-A1,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSVR1,Abishai,2,Ahmedabad,Guj,India,180,20130101,52415,122435,1,178,3,2,1,42,46,4
+IMI-181,Aania,F,ITM-181,Wheat Floor,5.5,8.5,LOC-A5,X-Mart,S.P. RingRoad,Ahmedabad,Guj,India,SP-DMSPR1,Abishek,1,Ahmedabad,Guj,India,181,20130101,52415,121907,1,179,1,2,2,11,13,2
+IMI-182,Aaniah,F,ITM-182,Rice Grains,22.5,25.5,LOC-A2,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSPR2,Abisola,1,Ahmedabad,Guj,India,182,20130101,44214,122159,2,180,6,2,3,54,60,6
+IMI-183,Aanijah,F,ITM-183,SunFlower Oil,42,45,LOC-A4,X-Mart,Sivranjani,Ahmedabad,Guj,India,SP-DMNGR1,Abiud,2,Ahmedabad,Guj,India,183,20130101,53423,143335,3,181,9,3,2,11,13,2
+IMI-184,Aanika,F,ITM-184,Nirma Soap,18,21,LOC-A1,X-Mart,RingRoad,Ahmedabad,Guj,India,SP-DMNGR2,Abiyah,2,Ahmedabad,Guj,India,184,20130101,55562,143335,3,182,12,3,1,42,43.5,1.5
+IMI-185,Aanisah,F,ITM-185,Arial Washing Powder,135,138,LOC-A1,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSVR1,Abla,3,Ahmedabad,Guj,India,185,20130101,44347,143335,3,183,2,1,3,54,56,2
+IMI-186,Aaniya,F,ITM-186,Wheat Floor,21,24,LOC-A2,X-Mart,S.P. RingRoad,Ahmedabad,Guj,India,SP-DMSPR1,Able,2,Ahmedabad,Guj,India,186,20130101,44519,13243,4,184,3,1,2,11,13,2
+IMI-187,Aaniyah,F,ITM-187,Rice Grains,32,35,LOC-A3,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSPR2,Abnel,1,Ahmedabad,Guj,India,187,20130101,52415,13243,5,185,4,2,3,54,57,3
+IMI-188,Aaniylah,F,ITM-188,SunFlower Oil,50,53,LOC-A5,X-Mart,Sivranjani,Ahmedabad,Guj,India,SP-DMNGR1,Abner,1,Ahmedabad,Guj,India,188,20130101,52415,13243,5,186,1,2,2,11,13,2
+IMI-189,Aansh,M,ITM-189,Nirma Soap,20,23,LOC-A2,X-Mart,RingRoad,Ahmedabad,Guj,India,SP-DMNGR2,Abney,1,Ahmedabad,Guj,India,189,20130101,52415,13243,5,187,1,2,1,42,44,2
+IMI-190,Aanshi,F,ITM-190,Arial Washing Powder,15.5,18.5,LOC-A1,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSVR1,Abony,1,Ahmedabad,Guj,India,190,20130101,44214,122435,5,188,4,3,3,54,56,2
+IMI-191,Aanvi,F,ITM-191,Wheat Floor,5.5,8.5,LOC-A5,X-Mart,S.P. RingRoad,Ahmedabad,Guj,India,SP-DMSPR1,Abou,1,Ahmedabad,Guj,India,191,20130101,53423,122435,4,189,5,3,3,54,57,3
+IMI-192,Aanya,F,ITM-192,Rice Grains,22.5,25.5,LOC-A2,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSPR2,Aboubacar,3,Ahmedabad,Guj,India,192,20130101,55562,122435,4,190,1,5,2,11,14,3
+IMI-193,Aanyah,F,ITM-193,SunFlower Oil,42,45,LOC-A4,X-Mart,Sivranjani,Ahmedabad,Guj,India,SP-DMNGR1,Aboubakar,3,Ahmedabad,Guj,India,193,20130101,44347,122435,1,191,4,5,1,42,44,2
+IMI-194,Aanyla,F,ITM-194,Nirma Soap,18,21,LOC-A1,X-Mart,RingRoad,Ahmedabad,Guj,India,SP-DMNGR2,Abra,3,Ahmedabad,Guj,India,194,20130101,44519,122435,1,192,2,4,3,54,67,13
+IMI-195,Aapri,F,ITM-195,Arial Washing Powder,135,138,LOC-A1,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSVR1,Abraam,2,Ahmedabad,Guj,India,195,20130101,52415,122435,1,193,3,4,2,11,13,2
+IMI-196,Aaqib,M,ITM-196,Wheat Floor,21,24,LOC-A2,X-Mart,S.P. RingRoad,Ahmedabad,Guj,India,SP-DMSPR1,Abraar,2,Ahmedabad,Guj,India,196,20130101,52415,121907,1,194,4,4,3,54,58,4
+IMI-197,Aaqil,M,ITM-197,Rice Grains,32,35,LOC-A3,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSPR2,Abrah,2,Ahmedabad,Guj,India,197,20130101,52415,122159,1,195,5,4,2,11,14,3
+IMI-198,Aara,F,ITM-198,SunFlower Oil,50,53,LOC-A5,X-Mart,Sivranjani,Ahmedabad,Guj,India,SP-DMNGR1,Abraham,2,Ahmedabad,Guj,India,198,20130101,44214,143335,2,196,2,1,1,42,46,4
+IMI-199,Aarabella,F,ITM-199,Nirma Soap,20,23,LOC-A2,X-Mart,RingRoad,Ahmedabad,Guj,India,SP-DMNGR2,Abrahan,1,Ahmedabad,Guj,India,199,20130101,53423,143335,3,197,3,1,2,11,13,2
+IMI-200,Aarabhi,F,ITM-200,Arial Washing Powder,15.5,18.5,LOC-A1,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSVR1,Abraheem,1,Ahmedabad,Guj,India,200,20130101,55562,143335,3,198,1,1,3,54,60,6
+IMI-201,Aaradhana,F,ITM-201,Wheat Floor,5.5,8.5,LOC-A5,X-Mart,S.P. RingRoad,Ahmedabad,Guj,India,SP-DMSPR1,Abrahem,2,Ahmedabad,Guj,India,201,20130101,44347,13243,3,199,6,1,2,11,13,2
+IMI-202,Aaradhy,M,ITM-202,Rice Grains,22.5,25.5,LOC-A2,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSPR2,Abrahim,2,Ahmedabad,Guj,India,202,20130101,44519,13243,4,200,9,2,1,42,43.5,1.5
+IMI-203,Aaradhya,F,ITM-203,SunFlower Oil,42,45,LOC-A4,X-Mart,Sivranjani,Ahmedabad,Guj,India,SP-DMNGR1,Abrahm,3,Ahmedabad,Guj,India,203,20130101,52415,13243,5,201,12,2,3,54,56,2
+IMI-204,Aaraiz,M,ITM-204,Nirma Soap,18,21,LOC-A1,X-Mart,RingRoad,Ahmedabad,Guj,India,SP-DMNGR2,Abram,2,Ahmedabad,Guj,India,204,20130101,52415,13243,5,202,2,2,2,11,13,2
+IMI-205,Aaralyn,F,ITM-205,Arial Washing Powder,135,138,LOC-A1,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSVR1,Abran,1,Ahmedabad,Guj,India,205,20130101,52415,122435,5,203,3,2,3,54,57,3
+IMI-206,Aaralynn,F,ITM-206,Wheat Floor,21,24,LOC-A2,X-Mart,S.P. RingRoad,Ahmedabad,Guj,India,SP-DMSPR1,Abranda,1,Ahmedabad,Guj,India,206,20130101,44214,122435,5,204,4,3,2,11,13,2
+IMI-207,Aaran,M,ITM-207,Rice Grains,32,35,LOC-A3,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSPR2,Abrar,1,Ahmedabad,Guj,India,207,20130101,53423,122435,4,205,1,3,1,42,44,2
+IMI-208,Aaraon,M,ITM-208,SunFlower Oil,50,53,LOC-A5,X-Mart,Sivranjani,Ahmedabad,Guj,India,SP-DMNGR1,Abraxas,1,Ahmedabad,Guj,India,208,20130101,55562,122435,4,206,1,1,3,54,56,2
+IMI-209,Aaratrika,F,ITM-209,Nirma Soap,20,23,LOC-A2,X-Mart,RingRoad,Ahmedabad,Guj,India,SP-DMNGR2,Abrea,1,Ahmedabad,Guj,India,209,20130101,44347,122435,1,207,4,1,3,54,57,3
+IMI-210,Aarav,M,ITM-210,Arial Washing Powder,15.5,18.5,LOC-A1,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSVR1,Abreana,3,Ahmedabad,Guj,India,210,20130101,44519,122435,1,208,5,2,2,11,14,3
+IMI-211,Aaravi,F,ITM-211,Wheat Floor,5.5,8.5,LOC-A5,X-Mart,S.P. RingRoad,Ahmedabad,Guj,India,SP-DMSPR1,Abreanna,3,Ahmedabad,Guj,India,211,20130101,52415,121907,1,209,11,2,1,42,44,2
+IMI-212,Aaraya,F,ITM-212,Rice Grains,22.5,25.5,LOC-A2,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSPR2,Abree,3,Ahmedabad,Guj,India,212,20130101,52415,122159,1,210,7,2,3,54,67,13
+IMI-213,Aaren,M,ITM-213,SunFlower Oil,42,45,LOC-A4,X-Mart,Sivranjani,Ahmedabad,Guj,India,SP-DMNGR1,Abreia,2,Ahmedabad,Guj,India,213,20130101,52415,143335,1,211,8,3,2,11,13,2
+IMI-214,Aareon,M,ITM-214,Nirma Soap,18,21,LOC-A1,X-Mart,RingRoad,Ahmedabad,Guj,India,SP-DMNGR2,Abren,2,Ahmedabad,Guj,India,214,20130101,44214,143335,2,212,9,3,3,54,58,4
+IMI-215,Aareona,F,ITM-215,Arial Washing Powder,135,138,LOC-A1,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSVR1,Abreona,2,Ahmedabad,Guj,India,215,20130101,53423,143335,3,213,13,5,2,11,14,3
+IMI-216,Aari,F,ITM-216,Wheat Floor,21,24,LOC-A2,X-Mart,S.P. RingRoad,Ahmedabad,Guj,India,SP-DMSPR1,Abreonna,2,Ahmedabad,Guj,India,216,20130101,55562,13243,3,214,1,5,1,42,46,4
+IMI-217,Aaria,F,ITM-217,Rice Grains,32,35,LOC-A3,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSPR2,Abrey,1,Ahmedabad,Guj,India,217,20130101,44347,13243,3,215,4,4,2,11,13,2
+IMI-218,Aariah,F,ITM-218,SunFlower Oil,50,53,LOC-A5,X-Mart,Sivranjani,Ahmedabad,Guj,India,SP-DMNGR1,Abreya,1,Ahmedabad,Guj,India,218,20130101,44519,13243,4,216,2,4,3,54,60,6
+IMI-219,Aarian,M,ITM-219,Nirma Soap,20,23,LOC-A2,X-Mart,RingRoad,Ahmedabad,Guj,India,SP-DMNGR2,Abrham,2,Ahmedabad,Guj,India,219,20130101,52415,13243,5,217,3,4,2,11,13,2
+IMI-220,Aariana,F,ITM-220,Arial Washing Powder,15.5,18.5,LOC-A1,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSVR1,Abri,2,Ahmedabad,Guj,India,220,20130101,52415,122435,5,218,4,4,1,42,43.5,1.5
+IMI-221,Aarianna,F,ITM-221,Wheat Floor,5.5,8.5,LOC-A5,X-Mart,S.P. RingRoad,Ahmedabad,Guj,India,SP-DMSPR1,Abria,3,Ahmedabad,Guj,India,221,20130101,52415,122435,5,219,5,1,3,54,56,2
+IMI-222,Aarib,M,ITM-222,Rice Grains,22.5,25.5,LOC-A2,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSPR2,Abriah,2,Ahmedabad,Guj,India,222,20130101,44214,122435,5,220,2,1,2,11,13,2
+IMI-223,Aaric,M,ITM-223,SunFlower Oil,42,45,LOC-A4,X-Mart,Sivranjani,Ahmedabad,Guj,India,SP-DMNGR1,Abrial,1,Ahmedabad,Guj,India,223,20130101,53423,122435,4,221,3,1,3,54,57,3
+IMI-224,Aarica,F,ITM-224,Nirma Soap,18,21,LOC-A1,X-Mart,RingRoad,Ahmedabad,Guj,India,SP-DMNGR2,Abriam,1,Ahmedabad,Guj,India,224,20130101,55562,122435,4,222,1,1,2,11,13,2
+IMI-225,Aarick,M,ITM-225,Arial Washing Powder,135,138,LOC-A1,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSVR1,Abrian,1,Ahmedabad,Guj,India,225,20130101,44347,122435,1,223,6,2,1,42,44,2
+IMI-226,Aarie,F,ITM-226,Wheat Floor,21,24,LOC-A2,X-Mart,S.P. RingRoad,Ahmedabad,Guj,India,SP-DMSPR1,Abriana,1,Ahmedabad,Guj,India,226,20130101,44519,121907,1,224,9,2,3,54,56,2
+IMI-227,Aariel,F,ITM-227,Rice Grains,32,35,LOC-A3,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSPR2,Abrianna,1,Ahmedabad,Guj,India,227,20130101,52415,122159,1,225,12,2,3,54,57,3
+IMI-228,Aarielle,F,ITM-228,SunFlower Oil,50,53,LOC-A5,X-Mart,Sivranjani,Ahmedabad,Guj,India,SP-DMNGR1,Abriannah,3,Ahmedabad,Guj,India,228,20130101,52415,143335,1,226,2,2,2,11,14,3
+IMI-229,Aarien,M,ITM-229,Nirma Soap,20,23,LOC-A2,X-Mart,RingRoad,Ahmedabad,Guj,India,SP-DMNGR2,Abrianne,3,Ahmedabad,Guj,India,229,20130101,52415,143335,1,227,3,3,1,42,44,2
+IMI-230,Aarik,M,ITM-230,Arial Washing Powder,15.5,18.5,LOC-A1,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSVR1,Abrie,3,Ahmedabad,Guj,India,230,20130101,44214,143335,2,228,4,3,3,54,67,13
+IMI-231,Aarika,F,ITM-231,Wheat Floor,5.5,8.5,LOC-A5,X-Mart,S.P. RingRoad,Ahmedabad,Guj,India,SP-DMSPR1,Abriel,2,Ahmedabad,Guj,India,231,20130101,53423,13243,3,229,1,1,2,11,13,2
+IMI-232,Aariketh,M,ITM-232,Rice Grains,22.5,25.5,LOC-A2,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSPR2,Abriela,2,Ahmedabad,Guj,India,232,20130101,55562,13243,3,230,1,1,3,54,58,4
+IMI-233,Aarilyn,F,ITM-233,SunFlower Oil,42,45,LOC-A4,X-Mart,Sivranjani,Ahmedabad,Guj,India,SP-DMNGR1,Abriele,2,Ahmedabad,Guj,India,233,20130101,44347,13243,3,231,4,2,2,11,14,3
+IMI-234,Aarilynn,F,ITM-234,Nirma Soap,18,21,LOC-A1,X-Mart,RingRoad,Ahmedabad,Guj,India,SP-DMNGR2,Abriella,2,Ahmedabad,Guj,India,234,20130101,44519,13243,4,232,5,2,1,42,46,4
+IMI-235,Aarin,M,ITM-235,Arial Washing Powder,135,138,LOC-A1,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSVR1,Abrielle,1,Ahmedabad,Guj,India,235,20130101,52415,122435,5,233,1,2,2,11,13,2
+IMI-236,Aarini,F,ITM-236,Wheat Floor,21,24,LOC-A2,X-Mart,S.P. RingRoad,Ahmedabad,Guj,India,SP-DMSPR1,Abrien,1,Ahmedabad,Guj,India,236,20130101,52415,122435,5,234,4,3,3,54,60,6
+IMI-237,Aarion,M,ITM-237,Rice Grains,32,35,LOC-A3,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSPR2,Abrienne,2,Ahmedabad,Guj,India,237,20130101,52415,122435,5,235,2,3,2,11,13,2
+IMI-238,Aariona,F,ITM-238,SunFlower Oil,50,53,LOC-A5,X-Mart,Sivranjani,Ahmedabad,Guj,India,SP-DMNGR1,Abrigail,2,Ahmedabad,Guj,India,238,20130101,44214,122435,5,236,3,5,1,42,43.5,1.5
+IMI-239,Aarionna,F,ITM-239,Nirma Soap,20,23,LOC-A2,X-Mart,RingRoad,Ahmedabad,Guj,India,SP-DMNGR2,Abrihet,3,Ahmedabad,Guj,India,239,20130101,53423,122435,4,237,4,5,3,54,56,2
+IMI-240,Aaris,F,ITM-240,Arial Washing Powder,15.5,18.5,LOC-A1,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSVR1,Abril,2,Ahmedabad,Guj,India,240,20130101,55562,122435,4,238,5,4,2,11,13,2
+IMI-241,Aarish,M,ITM-241,Wheat Floor,5.5,8.5,LOC-A5,X-Mart,S.P. RingRoad,Ahmedabad,Guj,India,SP-DMSPR1,Abrille,1,Ahmedabad,Guj,India,241,20130101,44347,121907,1,239,2,4,3,54,57,3
+IMI-242,Aarit,M,ITM-242,Rice Grains,22.5,25.5,LOC-A2,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSPR2,Abrina,1,Ahmedabad,Guj,India,242,20130101,44519,122159,1,240,3,4,2,11,13,2
+IMI-243,Aariv,M,ITM-243,SunFlower Oil,42,45,LOC-A4,X-Mart,Sivranjani,Ahmedabad,Guj,India,SP-DMNGR1,Abrion,1,Ahmedabad,Guj,India,243,20130101,52415,143335,1,241,1,4,1,42,44,2
+IMI-244,Aariya,F,ITM-244,Nirma Soap,18,21,LOC-A1,X-Mart,RingRoad,Ahmedabad,Guj,India,SP-DMNGR2,Abriona,1,Ahmedabad,Guj,India,244,20130101,52415,143335,1,242,6,1,3,54,56,2
+IMI-245,Aariyah,F,ITM-245,Arial Washing Powder,135,138,LOC-A1,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSVR1,Abrionna,1,Ahmedabad,Guj,India,245,20130101,52415,143335,1,243,9,1,3,54,57,3
+IMI-246,Aariyan,M,ITM-246,Wheat Floor,21,24,LOC-A2,X-Mart,S.P. RingRoad,Ahmedabad,Guj,India,SP-DMSPR1,Abrish,3,Ahmedabad,Guj,India,246,20130101,44214,13243,2,244,12,1,2,11,14,3
+IMI-247,Aariyana,F,ITM-247,Rice Grains,32,35,LOC-A3,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSPR2,Abriya,3,Ahmedabad,Guj,India,247,20130101,53423,13243,3,245,2,1,1,42,44,2
+IMI-248,Aariyanna,F,ITM-248,SunFlower Oil,50,53,LOC-A5,X-Mart,Sivranjani,Ahmedabad,Guj,India,SP-DMNGR1,Abriyah,3,Ahmedabad,Guj,India,248,20130101,55562,13243,3,246,3,2,3,54,67,13
+IMI-249,Aariyona,F,ITM-249,Nirma Soap,20,23,LOC-A2,X-Mart,RingRoad,Ahmedabad,Guj,India,SP-DMNGR2,Abriyana,2,Ahmedabad,Guj,India,249,20130101,44347,13243,3,247,4,2,2,11,13,2
+IMI-250,Aariyonna,F,ITM-250,Arial Washing Powder,15.5,18.5,LOC-A1,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSVR1,Abrom,2,Ahmedabad,Guj,India,250,20130101,44519,122435,4,248,1,2,3,54,58,4
+IMI-251,Aariz,M,ITM-251,Wheat Floor,5.5,8.5,LOC-A5,X-Mart,S.P. RingRoad,Ahmedabad,Guj,India,SP-DMSPR1,Abron,2,Ahmedabad,Guj,India,251,20130101,52415,122435,5,249,1,2,2,11,14,3
+IMI-252,Aarjav,M,ITM-252,Rice Grains,22.5,25.5,LOC-A2,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSPR2,Abrum,2,Ahmedabad,Guj,India,252,20130101,52415,122435,5,250,4,3,1,42,46,4
+IMI-253,Aarn,M,ITM-253,SunFlower Oil,42,45,LOC-A4,X-Mart,Sivranjani,Ahmedabad,Guj,India,SP-DMNGR1,Abry,1,Ahmedabad,Guj,India,253,20130101,52415,122435,5,251,5,3,2,11,13,2
+IMI-254,Aarna,F,ITM-254,Nirma Soap,18,21,LOC-A1,X-Mart,RingRoad,Ahmedabad,Guj,India,SP-DMNGR2,Abryana,1,Ahmedabad,Guj,India,254,20130101,44214,122435,5,252,11,1,3,54,60,6
+IMI-255,Aarnav,M,ITM-255,Arial Washing Powder,135,138,LOC-A1,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSVR1,Abryanna,2,Ahmedabad,Guj,India,255,20130101,53423,122435,4,253,7,1,2,11,13,2
+IMI-256,Aarnavi,F,ITM-256,Wheat Floor,21,24,LOC-A2,X-Mart,S.P. RingRoad,Ahmedabad,Guj,India,SP-DMSPR1,Abryella,2,Ahmedabad,Guj,India,256,20130101,55562,121907,4,254,8,2,1,42,43.5,1.5
+IMI-257,Aarne,M,ITM-257,Rice Grains,32,35,LOC-A3,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSPR2,Abryelle,3,Ahmedabad,Guj,India,257,20130101,44347,122159,1,255,9,2,3,54,56,2
+IMI-258,Aaro,M,ITM-258,SunFlower Oil,50,53,LOC-A5,X-Mart,Sivranjani,Ahmedabad,Guj,India,SP-DMNGR1,Abryl,2,Ahmedabad,Guj,India,258,20130101,44519,143335,1,256,13,2,2,11,13,2
+IMI-259,Aaroh,M,ITM-259,Nirma Soap,20,23,LOC-A2,X-Mart,RingRoad,Ahmedabad,Guj,India,SP-DMNGR2,Absalat,1,Ahmedabad,Guj,India,259,20130101,52415,143335,1,257,1,3,3,54,57,3
+IMI-260,Aarohan,M,ITM-260,Arial Washing Powder,15.5,18.5,LOC-A1,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSVR1,Absalom,1,Ahmedabad,Guj,India,260,20130101,52415,143335,1,258,4,3,2,11,13,2
+IMI-261,Aarohi,F,ITM-261,Wheat Floor,5.5,8.5,LOC-A5,X-Mart,S.P. RingRoad,Ahmedabad,Guj,India,SP-DMSPR1,Absalon,1,Ahmedabad,Guj,India,261,20130101,52415,13243,1,259,2,5,1,42,44,2
+IMI-262,Aarolyn,F,ITM-262,Rice Grains,22.5,25.5,LOC-A2,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSPR2,Abshir,1,Ahmedabad,Guj,India,262,20130101,44214,13243,2,260,3,5,3,54,56,2
+IMI-263,Aaron,M,ITM-263,SunFlower Oil,42,45,LOC-A4,X-Mart,Sivranjani,Ahmedabad,Guj,India,SP-DMNGR1,Absidy,1,Ahmedabad,Guj,India,263,20130101,53423,13243,3,261,4,4,3,54,57,3
+IMI-264,Aarona,F,ITM-264,Nirma Soap,18,21,LOC-A1,X-Mart,RingRoad,Ahmedabad,Guj,India,SP-DMNGR2,Abtin,3,Ahmedabad,Guj,India,264,20130101,55562,13243,3,262,5,4,2,11,14,3
+IMI-265,Aaronae,F,ITM-265,Arial Washing Powder,135,138,LOC-A1,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSVR1,Abu,3,Ahmedabad,Guj,India,265,20130101,44347,122435,3,263,2,4,1,42,44,2
+IMI-266,Aaronda,F,ITM-266,Wheat Floor,21,24,LOC-A2,X-Mart,S.P. RingRoad,Ahmedabad,Guj,India,SP-DMSPR1,Abubacar,3,Ahmedabad,Guj,India,266,20130101,44519,122435,4,264,3,4,3,54,67,13
+IMI-267,Aaronette,F,ITM-267,Rice Grains,32,35,LOC-A3,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSPR2,Abubacarr,2,Ahmedabad,Guj,India,267,20130101,52415,122435,5,265,1,1,2,11,13,2
+IMI-268,Aaronisha,F,ITM-268,SunFlower Oil,50,53,LOC-A5,X-Mart,Sivranjani,Ahmedabad,Guj,India,SP-DMNGR1,Abubakar,2,Ahmedabad,Guj,India,268,20130101,52415,122435,5,266,6,1,3,54,58,4
+IMI-269,Aaronjacob,M,ITM-269,Nirma Soap,20,23,LOC-A2,X-Mart,RingRoad,Ahmedabad,Guj,India,SP-DMNGR2,Abubakarr,2,Ahmedabad,Guj,India,269,20130101,52415,122435,5,267,9,1,2,11,14,3
+IMI-270,Aaronjames,M,ITM-270,Arial Washing Powder,15.5,18.5,LOC-A1,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSVR1,Abubakary,2,Ahmedabad,Guj,India,270,20130101,44214,122435,5,268,12,1,1,42,46,4
+IMI-271,Aaronjohn,M,ITM-271,Wheat Floor,5.5,8.5,LOC-A5,X-Mart,S.P. RingRoad,Ahmedabad,Guj,India,SP-DMSPR1,Abubaker,1,Ahmedabad,Guj,India,271,20130101,53423,121907,4,269,2,2,2,11,13,2
+IMI-272,Aaronjoseph,M,ITM-272,Rice Grains,22.5,25.5,LOC-A2,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSPR2,Abubakr,1,Ahmedabad,Guj,India,272,20130101,55562,122159,4,270,3,2,3,54,60,6
+IMI-273,Aaronjosh,M,ITM-273,SunFlower Oil,42,45,LOC-A4,X-Mart,Sivranjani,Ahmedabad,Guj,India,SP-DMNGR1,Abuk,2,Ahmedabad,Guj,India,273,20130101,44347,143335,1,271,4,2,2,11,13,2
+IMI-274,Aaronjoshua,M,ITM-274,Nirma Soap,18,21,LOC-A1,X-Mart,RingRoad,Ahmedabad,Guj,India,SP-DMNGR2,Abukar,2,Ahmedabad,Guj,India,274,20130101,44519,143335,1,272,1,2,1,42,43.5,1.5
+IMI-275,Aaronlee,M,ITM-275,Arial Washing Powder,135,138,LOC-A1,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSVR1,Abundio,3,Ahmedabad,Guj,India,275,20130101,52415,143335,1,273,1,3,3,54,56,2
+IMI-276,Aaronmichael,M,ITM-276,Wheat Floor,21,24,LOC-A2,X-Mart,S.P. RingRoad,Ahmedabad,Guj,India,SP-DMSPR1,Aby,2,Ahmedabad,Guj,India,276,20130101,52415,13243,1,274,4,3,2,11,13,2
+IMI-277,Aaronn,M,ITM-277,Rice Grains,32,35,LOC-A3,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSPR2,Abyade,1,Ahmedabad,Guj,India,277,20130101,52415,13243,1,275,5,1,3,54,57,3
+IMI-278,Aaroosh,M,ITM-278,SunFlower Oil,50,53,LOC-A5,X-Mart,Sivranjani,Ahmedabad,Guj,India,SP-DMNGR1,Abyan,1,Ahmedabad,Guj,India,278,20130101,44214,13243,2,276,1,1,2,11,13,2
+IMI-279,Aarren,M,ITM-279,Nirma Soap,20,23,LOC-A2,X-Mart,RingRoad,Ahmedabad,Guj,India,SP-DMNGR2,Abygael,1,Ahmedabad,Guj,India,279,20130101,53423,13243,3,277,4,2,1,42,44,2
+IMI-280,Aarron,M,ITM-280,Arial Washing Powder,15.5,18.5,LOC-A1,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSVR1,Abygail,1,Ahmedabad,Guj,India,280,20130101,55562,122435,3,278,2,2,3,54,56,2
+IMI-281,Aarsh,M,ITM-281,Wheat Floor,5.5,8.5,LOC-A5,X-Mart,S.P. RingRoad,Ahmedabad,Guj,India,SP-DMSPR1,Abygaile,1,Ahmedabad,Guj,India,281,20130101,44347,122435,3,279,3,2,3,54,57,3
+IMI-282,Aarshi,F,ITM-282,Rice Grains,22.5,25.5,LOC-A2,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSPR2,Abygale,3,Ahmedabad,Guj,India,282,20130101,44519,122435,4,280,4,3,2,11,14,3
+IMI-283,Aarshiya,F,ITM-283,SunFlower Oil,42,45,LOC-A4,X-Mart,Sivranjani,Ahmedabad,Guj,India,SP-DMNGR1,Abygayle,3,Ahmedabad,Guj,India,283,20130101,52415,122435,5,281,5,3,1,42,44,2
+IMI-284,Aarthi,F,ITM-284,Nirma Soap,18,21,LOC-A1,X-Mart,RingRoad,Ahmedabad,Guj,India,SP-DMNGR2,Abyssinia,3,Ahmedabad,Guj,India,284,20130101,52415,122435,5,282,2,5,3,54,67,13
+IMI-285,Aarti,F,ITM-285,Arial Washing Powder,135,138,LOC-A1,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSVR1,Ac,2,Ahmedabad,Guj,India,285,20130101,52415,122435,5,283,3,5,2,11,13,2
+IMI-286,Aaruhi,F,ITM-286,Wheat Floor,21,24,LOC-A2,X-Mart,S.P. RingRoad,Ahmedabad,Guj,India,SP-DMSPR1,Acacia,2,Ahmedabad,Guj,India,286,20130101,44214,121907,5,284,1,4,3,54,58,4
+IMI-287,Aarush,M,ITM-287,Rice Grains,32,35,LOC-A3,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSPR2,Acacius,2,Ahmedabad,Guj,India,287,20130101,53423,122159,4,285,6,4,2,11,14,3
+IMI-288,Aarushi,F,ITM-288,SunFlower Oil,50,53,LOC-A5,X-Mart,Sivranjani,Ahmedabad,Guj,India,SP-DMNGR1,Acadia,2,Ahmedabad,Guj,India,288,20130101,55562,143335,4,286,9,4,1,42,46,4
+IMI-289,Aarvi,F,ITM-289,Nirma Soap,20,23,LOC-A2,X-Mart,RingRoad,Ahmedabad,Guj,India,SP-DMNGR2,Acamas,1,Ahmedabad,Guj,India,289,20130101,44347,143335,1,287,12,4,2,11,13,2
+IMI-290,Aarvin,M,ITM-290,Arial Washing Powder,15.5,18.5,LOC-A1,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSVR1,Acari,1,Ahmedabad,Guj,India,290,20130101,44519,143335,1,288,2,1,3,54,60,6
+IMI-291,Aarya,F,ITM-291,Wheat Floor,5.5,8.5,LOC-A5,X-Mart,S.P. RingRoad,Ahmedabad,Guj,India,SP-DMSPR1,Acasia,2,Ahmedabad,Guj,India,291,20130101,52415,13243,1,289,3,1,2,11,13,2
+IMI-292,Aaryah,F,ITM-292,Rice Grains,22.5,25.5,LOC-A2,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSPR2,Accacia,2,Ahmedabad,Guj,India,292,20130101,52415,13243,1,290,4,1,1,42,43.5,1.5
+IMI-293,Aaryahi,F,ITM-293,SunFlower Oil,42,45,LOC-A4,X-Mart,Sivranjani,Ahmedabad,Guj,India,SP-DMNGR1,Accalia,3,Ahmedabad,Guj,India,293,20130101,52415,13243,1,291,1,1,3,54,56,2
+IMI-294,Aaryan,M,ITM-294,Nirma Soap,18,21,LOC-A1,X-Mart,RingRoad,Ahmedabad,Guj,India,SP-DMNGR2,Access,2,Ahmedabad,Guj,India,294,20130101,44214,13243,2,292,1,2,2,11,13,2
+IMI-295,Aaryana,F,ITM-295,Arial Washing Powder,135,138,LOC-A1,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSVR1,Accie,1,Ahmedabad,Guj,India,295,20130101,53423,122435,3,293,4,2,3,54,57,3
+IMI-296,Aaryanna,F,ITM-296,Wheat Floor,21,24,LOC-A2,X-Mart,S.P. RingRoad,Ahmedabad,Guj,India,SP-DMSPR1,Accursio,1,Ahmedabad,Guj,India,296,20130101,55562,122435,3,294,5,2,2,11,13,2
+IMI-297,Aaryash,M,ITM-297,Rice Grains,32,35,LOC-A3,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSPR2,Ace,1,Ahmedabad,Guj,India,297,20130101,44347,122435,3,295,11,2,1,42,44,2
+IMI-298,Aaryav,M,ITM-298,SunFlower Oil,50,53,LOC-A5,X-Mart,Sivranjani,Ahmedabad,Guj,India,SP-DMNGR1,Acea,1,Ahmedabad,Guj,India,298,20130101,44519,122435,4,296,7,3,3,54,56,2
+IMI-299,Aaryn,F,ITM-299,Nirma Soap,20,23,LOC-A2,X-Mart,RingRoad,Ahmedabad,Guj,India,SP-DMNGR2,Acein,1,Ahmedabad,Guj,India,299,20130101,52415,122435,5,297,8,3,3,54,57,3
+IMI-300,Aaryon,M,ITM-300,Arial Washing Powder,15.5,18.5,LOC-A1,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSVR1,Acel,3,Ahmedabad,Guj,India,300,20130101,52415,122435,5,298,9,1,2,11,14,3
+IMI-301,Aaryona,F,ITM-301,Wheat Floor,5.5,8.5,LOC-A5,X-Mart,S.P. RingRoad,Ahmedabad,Guj,India,SP-DMSPR1,Acelin,3,Ahmedabad,Guj,India,301,20130101,52415,121907,5,299,13,1,1,42,44,2
+IMI-302,Aarza,F,ITM-302,Rice Grains,22.5,25.5,LOC-A2,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSPR2,Acelino,3,Ahmedabad,Guj,India,302,20130101,44214,122159,5,300,1,2,3,54,67,13
+IMI-303,Aaser,M,ITM-303,SunFlower Oil,42,45,LOC-A4,X-Mart,Sivranjani,Ahmedabad,Guj,India,SP-DMNGR1,Acelyn,2,Ahmedabad,Guj,India,303,20130101,53423,143335,4,301,4,2,2,11,13,2
+IMI-304,Aasha,F,ITM-304,Nirma Soap,18,21,LOC-A1,X-Mart,RingRoad,Ahmedabad,Guj,India,SP-DMNGR2,Acelynn,2,Ahmedabad,Guj,India,304,20130101,55562,143335,4,302,2,2,3,54,58,4
+IMI-305,Aashana,F,ITM-305,Arial Washing Powder,135,138,LOC-A1,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSVR1,Acen,2,Ahmedabad,Guj,India,305,20130101,44347,143335,1,303,3,3,2,11,14,3
+IMI-306,Aashay,M,ITM-306,Wheat Floor,21,24,LOC-A2,X-Mart,S.P. RingRoad,Ahmedabad,Guj,India,SP-DMSPR1,Acencion,2,Ahmedabad,Guj,India,306,20130101,44519,13243,1,304,4,3,1,42,46,4
+IMI-307,Aashi,F,ITM-307,Rice Grains,32,35,LOC-A3,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSPR2,Aceon,1,Ahmedabad,Guj,India,307,20130101,52415,13243,1,305,5,5,2,11,13,2
+IMI-308,Aashia,F,ITM-308,SunFlower Oil,50,53,LOC-A5,X-Mart,Sivranjani,Ahmedabad,Guj,India,SP-DMNGR1,Acer,1,Ahmedabad,Guj,India,308,20130101,52415,13243,1,306,2,5,3,54,60,6
+IMI-309,Aashika,F,ITM-309,Nirma Soap,20,23,LOC-A2,X-Mart,RingRoad,Ahmedabad,Guj,India,SP-DMNGR2,Aceson,2,Ahmedabad,Guj,India,309,20130101,52415,13243,1,307,3,4,2,11,13,2
+IMI-310,Aashini,F,ITM-310,Arial Washing Powder,15.5,18.5,LOC-A1,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSVR1,Acesyn,2,Ahmedabad,Guj,India,310,20130101,44214,122435,2,308,1,4,1,42,43.5,1.5
+IMI-311,Aashir,M,ITM-311,Wheat Floor,5.5,8.5,LOC-A5,X-Mart,S.P. RingRoad,Ahmedabad,Guj,India,SP-DMSPR1,Aceton,3,Ahmedabad,Guj,India,311,20130101,53423,122435,3,309,6,4,3,54,56,2
+IMI-312,Aashirya,F,ITM-312,Rice Grains,22.5,25.5,LOC-A2,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSPR2,Acey,2,Ahmedabad,Guj,India,312,20130101,55562,122435,3,310,9,4,2,11,13,2
+IMI-313,Aashish,M,ITM-313,SunFlower Oil,42,45,LOC-A4,X-Mart,Sivranjani,Ahmedabad,Guj,India,SP-DMNGR1,Aceyn,1,Ahmedabad,Guj,India,313,20130101,44347,122435,3,311,12,1,3,54,57,3
+IMI-314,Aashita,F,ITM-314,Nirma Soap,18,21,LOC-A1,X-Mart,RingRoad,Ahmedabad,Guj,India,SP-DMNGR2,Achai,1,Ahmedabad,Guj,India,314,20130101,44519,122435,4,312,2,1,2,11,13,2
+IMI-315,Aashiyana,F,ITM-315,Arial Washing Powder,135,138,LOC-A1,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSVR1,Achaia,1,Ahmedabad,Guj,India,315,20130101,52415,122435,5,313,3,1,1,42,44,2
+IMI-316,Aashka,F,ITM-316,Wheat Floor,21,24,LOC-A2,X-Mart,S.P. RingRoad,Ahmedabad,Guj,India,SP-DMSPR1,Achan,1,Ahmedabad,Guj,India,316,20130101,52415,121907,5,314,4,1,3,54,56,2
+IMI-317,Aashman,M,ITM-317,Rice Grains,32,35,LOC-A3,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSPR2,Achante,1,Ahmedabad,Guj,India,317,20130101,52415,122159,5,315,1,2,3,54,57,3
+IMI-318,Aashna,F,ITM-318,SunFlower Oil,50,53,LOC-A5,X-Mart,Sivranjani,Ahmedabad,Guj,India,SP-DMNGR1,Achanti,3,Ahmedabad,Guj,India,318,20130101,44214,143335,5,316,1,2,2,11,14,3
+IMI-319,Aashni,F,ITM-319,Nirma Soap,20,23,LOC-A2,X-Mart,RingRoad,Ahmedabad,Guj,India,SP-DMNGR2,Achary,3,Ahmedabad,Guj,India,319,20130101,53423,143335,4,317,4,2,1,42,44,2
+IMI-320,Aashray,M,ITM-320,Arial Washing Powder,15.5,18.5,LOC-A1,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSVR1,Achazia,3,Ahmedabad,Guj,India,320,20130101,55562,143335,4,318,5,2,3,54,67,13
+IMI-321,Aashrita,F,ITM-321,Wheat Floor,5.5,8.5,LOC-A5,X-Mart,S.P. RingRoad,Ahmedabad,Guj,India,SP-DMSPR1,Achel,2,Ahmedabad,Guj,India,321,20130101,44347,13243,1,319,1,3,2,11,13,2
+IMI-322,Aashrith,M,ITM-322,Rice Grains,22.5,25.5,LOC-A2,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSPR2,Acheron,2,Ahmedabad,Guj,India,322,20130101,44519,13243,1,320,4,3,3,54,58,4
+IMI-323,Aashritha,F,ITM-323,SunFlower Oil,42,45,LOC-A4,X-Mart,Sivranjani,Ahmedabad,Guj,India,SP-DMNGR1,Achille,2,Ahmedabad,Guj,India,323,20130101,52415,13243,1,321,2,1,2,11,14,3
+IMI-324,Aashvi,F,ITM-324,Nirma Soap,18,21,LOC-A1,X-Mart,RingRoad,Ahmedabad,Guj,India,SP-DMNGR2,Achilles,2,Ahmedabad,Guj,India,324,20130101,52415,13243,1,322,3,1,1,42,46,4
+IMI-325,Aasia,F,ITM-325,Arial Washing Powder,135,138,LOC-A1,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSVR1,Achilleus,1,Ahmedabad,Guj,India,325,20130101,52415,122435,1,323,4,2,2,11,13,2
+IMI-326,Aasim,M,ITM-326,Wheat Floor,21,24,LOC-A2,X-Mart,S.P. RingRoad,Ahmedabad,Guj,India,SP-DMSPR1,Achillies,1,Ahmedabad,Guj,India,326,20130101,44214,122435,2,324,5,2,3,54,60,6
+IMI-327,Aasin,M,ITM-327,Rice Grains,32,35,LOC-A3,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSPR2,Achintya,2,Ahmedabad,Guj,India,327,20130101,53423,122435,3,325,2,2,2,11,13,2
+IMI-328,Aasir,M,ITM-328,SunFlower Oil,50,53,LOC-A5,X-Mart,Sivranjani,Ahmedabad,Guj,India,SP-DMNGR1,Achol,2,Ahmedabad,Guj,India,328,20130101,55562,122435,3,326,3,3,1,42,43.5,1.5
+IMI-329,Aasiya,F,ITM-329,Nirma Soap,20,23,LOC-A2,X-Mart,RingRoad,Ahmedabad,Guj,India,SP-DMNGR2,Achraf,3,Ahmedabad,Guj,India,329,20130101,44347,122435,3,327,1,3,3,54,56,2
+IMI-330,Aasiyah,F,ITM-330,Arial Washing Powder,15.5,18.5,LOC-A1,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSVR1,Achsa,2,Ahmedabad,Guj,India,330,20130101,44519,122435,4,328,6,5,2,11,13,2
+IMI-331,Aason,M,ITM-331,Wheat Floor,5.5,8.5,LOC-A5,X-Mart,S.P. RingRoad,Ahmedabad,Guj,India,SP-DMSPR1,Achsah,1,Ahmedabad,Guj,India,331,20130101,52415,121907,5,329,9,5,3,54,57,3
+IMI-332,Aastha,F,ITM-332,Rice Grains,22.5,25.5,LOC-A2,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSPR2,Achyut,1,Ahmedabad,Guj,India,332,20130101,52415,122159,5,330,12,4,2,11,13,2
+IMI-333,Aathan,M,ITM-333,SunFlower Oil,42,45,LOC-A4,X-Mart,Sivranjani,Ahmedabad,Guj,India,SP-DMNGR1,Achyuth,1,Ahmedabad,Guj,India,333,20130101,52415,143335,5,331,2,4,1,42,44,2
+IMI-334,Aatif,M,ITM-334,Nirma Soap,18,21,LOC-A1,X-Mart,RingRoad,Ahmedabad,Guj,India,SP-DMNGR2,Acia,1,Ahmedabad,Guj,India,334,20130101,44214,143335,5,332,3,4,3,54,56,2
+IMI-335,Aatish,M,ITM-335,Arial Washing Powder,135,138,LOC-A1,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSVR1,Aciano,1,Ahmedabad,Guj,India,335,20130101,53423,143335,4,333,4,4,3,54,57,3
+IMI-336,Aava,F,ITM-336,Wheat Floor,21,24,LOC-A2,X-Mart,S.P. RingRoad,Ahmedabad,Guj,India,SP-DMSPR1,Acie,3,Ahmedabad,Guj,India,336,20130101,55562,13243,4,334,1,1,2,11,14,3
+IMI-337,Aavah,F,ITM-337,Rice Grains,32,35,LOC-A3,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSPR2,Aciel,3,Ahmedabad,Guj,India,337,20130101,44347,13243,1,335,1,1,1,42,44,2
+IMI-338,Aavash,M,ITM-338,SunFlower Oil,50,53,LOC-A5,X-Mart,Sivranjani,Ahmedabad,Guj,India,SP-DMNGR1,Acil,3,Ahmedabad,Guj,India,338,20130101,44519,13243,1,336,4,1,3,54,67,13
+IMI-339,Aaven,M,ITM-339,Nirma Soap,20,23,LOC-A2,X-Mart,RingRoad,Ahmedabad,Guj,India,SP-DMNGR2,Acire,2,Ahmedabad,Guj,India,339,20130101,52415,13243,1,337,5,1,2,11,13,2
+IMI-340,Aavi,M,ITM-340,Arial Washing Powder,15.5,18.5,LOC-A1,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSVR1,Ackeem,2,Ahmedabad,Guj,India,340,20130101,52415,122435,1,338,11,2,3,54,58,4
+IMI-341,Aavin,M,ITM-341,Wheat Floor,5.5,8.5,LOC-A5,X-Mart,S.P. RingRoad,Ahmedabad,Guj,India,SP-DMSPR1,Ackley,2,Ahmedabad,Guj,India,341,20130101,52415,122435,1,339,7,2,2,11,14,3
+IMI-342,Aavion,M,ITM-342,Rice Grains,22.5,25.5,LOC-A2,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSPR2,Acob,2,Ahmedabad,Guj,India,342,20130101,44214,122435,2,340,8,2,1,42,46,4
+IMI-343,Aavya,F,ITM-343,SunFlower Oil,42,45,LOC-A4,X-Mart,Sivranjani,Ahmedabad,Guj,India,SP-DMNGR1,Acquanetta,1,Ahmedabad,Guj,India,343,20130101,53423,122435,3,341,9,2,2,11,13,2
+IMI-344,Aavyan,M,ITM-344,Nirma Soap,18,21,LOC-A1,X-Mart,RingRoad,Ahmedabad,Guj,India,SP-DMNGR2,Acquanette,1,Ahmedabad,Guj,India,344,20130101,55562,122435,3,342,13,3,3,54,60,6
+IMI-345,Aavyn,M,ITM-345,Arial Washing Powder,135,138,LOC-A1,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSVR1,Acsa,2,Ahmedabad,Guj,India,345,20130101,44347,122435,3,343,1,3,2,11,13,2
+IMI-346,Aaya,F,ITM-346,Wheat Floor,21,24,LOC-A2,X-Mart,S.P. RingRoad,Ahmedabad,Guj,India,SP-DMSPR1,Acura,2,Ahmedabad,Guj,India,346,20130101,44519,121907,4,344,4,1,1,42,43.5,1.5
+IMI-347,Aayaan,M,ITM-347,Rice Grains,32,35,LOC-A3,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSPR2,Acxel,3,Ahmedabad,Guj,India,347,20130101,52415,122159,5,345,2,1,3,54,56,2
+IMI-348,Aayah,F,ITM-348,SunFlower Oil,50,53,LOC-A5,X-Mart,Sivranjani,Ahmedabad,Guj,India,SP-DMNGR1,Acy,2,Ahmedabad,Guj,India,348,20130101,52415,143335,5,346,3,2,2,11,13,2
+IMI-349,Aayam,M,ITM-349,Nirma Soap,20,23,LOC-A2,X-Mart,RingRoad,Ahmedabad,Guj,India,SP-DMNGR2,Ad,1,Ahmedabad,Guj,India,349,20130101,52415,143335,5,347,4,2,3,54,57,3
+IMI-350,Aayan,M,ITM-350,Arial Washing Powder,15.5,18.5,LOC-A1,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSVR1,Ada,1,Ahmedabad,Guj,India,350,20130101,44214,143335,5,348,5,2,2,11,13,2
+IMI-351,Aayana,F,ITM-351,Wheat Floor,5.5,8.5,LOC-A5,X-Mart,S.P. RingRoad,Ahmedabad,Guj,India,SP-DMSPR1,Adabel,1,Ahmedabad,Guj,India,351,20130101,53423,13243,4,349,2,3,1,42,44,2
+IMI-352,Aayanah,F,ITM-352,Rice Grains,22.5,25.5,LOC-A2,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSPR2,Adabella,1,Ahmedabad,Guj,India,352,20130101,55562,13243,4,350,3,3,3,54,56,2
+IMI-353,Aayanna,F,ITM-353,SunFlower Oil,42,45,LOC-A4,X-Mart,Sivranjani,Ahmedabad,Guj,India,SP-DMNGR1,Adabelle,1,Ahmedabad,Guj,India,353,20130101,44347,13243,1,351,1,5,3,54,57,3
+IMI-354,Aayansh,M,ITM-354,Nirma Soap,18,21,LOC-A1,X-Mart,RingRoad,Ahmedabad,Guj,India,SP-DMNGR2,Adacia,3,Ahmedabad,Guj,India,354,20130101,44519,13243,1,352,6,5,2,11,14,3
+IMI-355,Aayat,F,ITM-355,Arial Washing Powder,135,138,LOC-A1,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSVR1,Adae,3,Ahmedabad,Guj,India,355,20130101,52415,122435,1,353,9,4,1,42,44,2
+IMI-356,Aaydan,M,ITM-356,Wheat Floor,21,24,LOC-A2,X-Mart,S.P. RingRoad,Ahmedabad,Guj,India,SP-DMSPR1,Adael,3,Ahmedabad,Guj,India,356,20130101,52415,122435,1,354,12,4,3,54,67,13
+IMI-357,Aayden,M,ITM-357,Rice Grains,32,35,LOC-A3,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSPR2,Adaelyn,2,Ahmedabad,Guj,India,357,20130101,52415,122435,1,355,2,4,2,11,13,2
+IMI-358,Aayla,F,ITM-358,SunFlower Oil,50,53,LOC-A5,X-Mart,Sivranjani,Ahmedabad,Guj,India,SP-DMNGR1,Adaeze,2,Ahmedabad,Guj,India,358,20130101,44214,122435,2,356,3,4,3,54,58,4
+IMI-359,Aaylah,F,ITM-359,Nirma Soap,20,23,LOC-A2,X-Mart,RingRoad,Ahmedabad,Guj,India,SP-DMNGR2,Adagio,2,Ahmedabad,Guj,India,359,20130101,53423,122435,3,357,4,1,2,11,14,3
+IMI-360,Aayliah,F,ITM-360,Arial Washing Powder,15.5,18.5,LOC-A1,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSVR1,Adah,2,Ahmedabad,Guj,India,360,20130101,55562,122435,3,358,1,1,1,42,46,4
+IMI-361,Aayra,F,ITM-361,Wheat Floor,5.5,8.5,LOC-A5,X-Mart,S.P. RingRoad,Ahmedabad,Guj,India,SP-DMSPR1,Adahir,1,Ahmedabad,Guj,India,361,20130101,44347,121907,3,359,1,1,2,11,13,2
+IMI-362,Aayu,M,ITM-362,Rice Grains,22.5,25.5,LOC-A2,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSPR2,Adahli,1,Ahmedabad,Guj,India,362,20130101,44519,122159,4,360,4,1,3,54,60,6
+IMI-363,Aayush,M,ITM-363,SunFlower Oil,42,45,LOC-A4,X-Mart,Sivranjani,Ahmedabad,Guj,India,SP-DMNGR1,Adahlia,2,Ahmedabad,Guj,India,363,20130101,52415,143335,5,361,5,2,2,11,13,2
+IMI-364,Aayusha,F,ITM-364,Nirma Soap,18,21,LOC-A1,X-Mart,RingRoad,Ahmedabad,Guj,India,SP-DMNGR2,Adahy,2,Ahmedabad,Guj,India,364,20130101,52415,143335,5,362,1,2,1,42,43.5,1.5
+IMI-365,Aayushi,F,ITM-365,Arial Washing Powder,135,138,LOC-A1,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSVR1,Adai,3,Ahmedabad,Guj,India,365,20130101,52415,143335,5,363,4,2,3,54,56,2
+IMI-366,Aazan,M,ITM-366,Wheat Floor,21,24,LOC-A2,X-Mart,S.P. RingRoad,Ahmedabad,Guj,India,SP-DMSPR1,Adaia,2,Ahmedabad,Guj,India,366,20130101,44214,13243,5,364,2,2,2,11,13,2
+IMI-367,Aazim,M,ITM-367,Rice Grains,32,35,LOC-A3,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSPR2,Adaiah,1,Ahmedabad,Guj,India,367,20130101,53423,13243,4,365,3,3,3,54,57,3
+IMI-368,Aaziyah,F,ITM-368,SunFlower Oil,50,53,LOC-A5,X-Mart,Sivranjani,Ahmedabad,Guj,India,SP-DMNGR1,Adaija,1,Ahmedabad,Guj,India,368,20130101,55562,13243,4,366,4,3,2,11,13,2
+IMI-369,Ab,M,ITM-369,Nirma Soap,20,23,LOC-B2,X-Mart,RingRoad,Ahmedabad,Guj,India,SP-DMNGR2,Adaijah,1,Ahmedabad,Guj,India,369,20130101,44347,13243,1,367,5,1,1,42,44,2
+IMI-370,Aba,F,ITM-370,Arial Washing Powder,15.5,18.5,LOC-B1,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSVR1,Adailyn,1,Ahmedabad,Guj,India,370,20130101,44519,122435,1,368,2,1,3,54,56,2
+IMI-371,Abaan,M,ITM-371,Wheat Floor,5.5,8.5,LOC-B5,X-Mart,S.P. RingRoad,Ahmedabad,Guj,India,SP-DMSPR1,Adain,1,Ahmedabad,Guj,India,371,20130101,52415,122435,1,369,3,2,3,54,57,3
+IMI-372,Abad,M,ITM-372,Rice Grains,22.5,25.5,LOC-B2,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSPR2,Adair,3,Ahmedabad,Guj,India,372,20130101,52415,122435,1,370,1,2,2,11,14,3
+IMI-373,Abagael,F,ITM-373,SunFlower Oil,42,45,LOC-B4,X-Mart,Sivranjani,Ahmedabad,Guj,India,SP-DMNGR1,Adaira,3,Ahmedabad,Guj,India,373,20130101,52415,122435,1,371,6,2,1,42,44,2
+IMI-374,Abagail,F,ITM-374,Nirma Soap,18,21,LOC-B1,X-Mart,RingRoad,Ahmedabad,Guj,India,SP-DMNGR2,Adaire,3,Ahmedabad,Guj,India,374,20130101,44214,122435,2,372,9,3,3,54,67,13
+IMI-375,Abagaile,F,ITM-375,Arial Washing Powder,135,138,LOC-B1,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSVR1,Adairis,2,Ahmedabad,Guj,India,375,20130101,53423,122435,3,373,12,3,2,11,13,2
+IMI-376,Abagale,F,ITM-376,Wheat Floor,21,24,LOC-B2,X-Mart,S.P. RingRoad,Ahmedabad,Guj,India,SP-DMSPR1,Adaisha,2,Ahmedabad,Guj,India,376,20130101,55562,121907,3,374,2,5,3,54,58,4
+IMI-377,Abagayle,F,ITM-377,Rice Grains,32,35,LOC-B3,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSPR2,Adaisia,2,Ahmedabad,Guj,India,377,20130101,44347,122159,3,375,3,5,2,11,14,3
+IMI-378,Abaigael,F,ITM-378,SunFlower Oil,50,53,LOC-B5,X-Mart,Sivranjani,Ahmedabad,Guj,India,SP-DMNGR1,Adaja,2,Ahmedabad,Guj,India,378,20130101,44519,143335,4,376,4,4,1,42,46,4
+IMI-379,Abaigail,F,ITM-379,Nirma Soap,20,23,LOC-B2,X-Mart,RingRoad,Ahmedabad,Guj,India,SP-DMNGR2,Adajah,1,Ahmedabad,Guj,India,379,20130101,52415,143335,5,377,1,4,2,11,13,2
+IMI-380,Abaigeal,F,ITM-380,Arial Washing Powder,15.5,18.5,LOC-B1,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSVR1,Adaku,1,Ahmedabad,Guj,India,380,20130101,52415,143335,5,378,1,4,3,54,60,6
+IMI-381,Aban,M,ITM-381,Wheat Floor,5.5,8.5,LOC-B5,X-Mart,S.P. RingRoad,Ahmedabad,Guj,India,SP-DMSPR1,Adal,2,Ahmedabad,Guj,India,381,20130101,52415,13243,5,379,4,4,2,11,13,2
+IMI-382,Abanoub,M,ITM-382,Rice Grains,22.5,25.5,LOC-B2,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSPR2,Adala,2,Ahmedabad,Guj,India,382,20130101,44214,13243,5,380,5,1,1,42,43.5,1.5
+IMI-383,Abas,M,ITM-383,SunFlower Oil,42,45,LOC-B4,X-Mart,Sivranjani,Ahmedabad,Guj,India,SP-DMNGR1,Adalade,3,Ahmedabad,Guj,India,383,20130101,53423,13243,4,381,11,1,3,54,56,2
+IMI-384,Abasi,M,ITM-384,Nirma Soap,18,21,LOC-B1,X-Mart,RingRoad,Ahmedabad,Guj,India,SP-DMNGR2,Adalae,2,Ahmedabad,Guj,India,384,20130101,55562,13243,4,382,7,1,2,11,13,2
+IMI-385,Abass,M,ITM-385,Arial Washing Powder,135,138,LOC-B1,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSVR1,Adalai,1,Ahmedabad,Guj,India,385,20130101,44347,122435,1,383,8,1,3,54,57,3
+IMI-386,Abayomi,M,ITM-386,Wheat Floor,21,24,LOC-B2,X-Mart,S.P. RingRoad,Ahmedabad,Guj,India,SP-DMSPR1,Adalaide,1,Ahmedabad,Guj,India,386,20130101,44519,122435,1,384,9,2,2,11,13,2
+IMI-387,Abb,M,ITM-387,Rice Grains,32,35,LOC-B3,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSPR2,Adalay,1,Ahmedabad,Guj,India,387,20130101,52415,122435,1,385,13,2,1,42,44,2
+IMI-388,Abba,M,ITM-388,SunFlower Oil,50,53,LOC-B5,X-Mart,Sivranjani,Ahmedabad,Guj,India,SP-DMNGR1,Adalaya,1,Ahmedabad,Guj,India,388,20130101,52415,122435,1,386,1,2,3,54,56,2
+IMI-389,Abbaas,M,ITM-389,Nirma Soap,20,23,LOC-B2,X-Mart,RingRoad,Ahmedabad,Guj,India,SP-DMNGR2,Adalayde,1,Ahmedabad,Guj,India,389,20130101,52415,122435,1,387,4,2,3,54,57,3
+IMI-390,Abbagail,F,ITM-390,Arial Washing Powder,15.5,18.5,LOC-B1,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSVR1,Adalbert,3,Ahmedabad,Guj,India,390,20130101,44214,122435,2,388,2,3,2,11,14,3
+IMI-391,Abbagale,F,ITM-391,Wheat Floor,5.5,8.5,LOC-B5,X-Mart,S.P. RingRoad,Ahmedabad,Guj,India,SP-DMSPR1,Adalberto,3,Ahmedabad,Guj,India,391,20130101,53423,121907,3,389,3,3,1,42,44,2
+IMI-392,Abbagayle,F,ITM-392,Rice Grains,22.5,25.5,LOC-B2,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSPR2,Adale,3,Ahmedabad,Guj,India,392,20130101,55562,122159,3,390,4,1,3,54,67,13
+IMI-393,Abbas,M,ITM-393,SunFlower Oil,42,45,LOC-B4,X-Mart,Sivranjani,Ahmedabad,Guj,India,SP-DMNGR1,Adalea,2,Ahmedabad,Guj,India,393,20130101,44347,143335,3,391,5,1,2,11,13,2
+IMI-394,Abbe,F,ITM-394,Nirma Soap,18,21,LOC-B1,X-Mart,RingRoad,Ahmedabad,Guj,India,SP-DMNGR2,Adaleah,2,Ahmedabad,Guj,India,394,20130101,44519,143335,4,392,2,2,3,54,58,4
+IMI-395,Abbee,F,ITM-395,Arial Washing Powder,135,138,LOC-B1,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSVR1,Adalee,2,Ahmedabad,Guj,India,395,20130101,52415,143335,5,393,3,2,2,11,14,3
+IMI-396,Abbegail,F,ITM-396,Wheat Floor,21,24,LOC-B2,X-Mart,S.P. RingRoad,Ahmedabad,Guj,India,SP-DMSPR1,Adaleen,2,Ahmedabad,Guj,India,396,20130101,52415,13243,5,394,1,2,1,42,46,4
+IMI-397,Abbegale,F,ITM-397,Rice Grains,32,35,LOC-B3,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSPR2,Adaleena,1,Ahmedabad,Guj,India,397,20130101,52415,13243,5,395,6,3,2,11,13,2
+IMI-398,Abbegayle,F,ITM-398,SunFlower Oil,50,53,LOC-B5,X-Mart,Sivranjani,Ahmedabad,Guj,India,SP-DMNGR1,Adalei,1,Ahmedabad,Guj,India,398,20130101,44214,13243,5,396,9,3,3,54,60,6
+IMI-399,Abbey,F,ITM-399,Nirma Soap,20,23,LOC-B2,X-Mart,RingRoad,Ahmedabad,Guj,India,SP-DMNGR2,Adaleia,2,Ahmedabad,Guj,India,399,20130101,53423,13243,4,397,12,5,2,11,13,2
+IMI-400,Abbeygail,F,ITM-400,Arial Washing Powder,15.5,18.5,LOC-B1,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSVR1,Adaleigh,2,Ahmedabad,Guj,India,400,20130101,55562,122435,4,398,2,5,1,42,43.5,1.5
+IMI-401,Abbeygale,F,ITM-401,Wheat Floor,5.5,8.5,LOC-B5,X-Mart,S.P. RingRoad,Ahmedabad,Guj,India,SP-DMSPR1,Adaleine,3,Ahmedabad,Guj,India,401,20130101,44347,122435,1,399,3,4,3,54,56,2
+IMI-402,Abbi,F,ITM-402,Rice Grains,22.5,25.5,LOC-B2,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSPR2,Adalen,2,Ahmedabad,Guj,India,402,20130101,44519,122435,1,400,4,4,2,11,13,2
+IMI-403,Abbie,F,ITM-403,SunFlower Oil,42,45,LOC-B4,X-Mart,Sivranjani,Ahmedabad,Guj,India,SP-DMNGR1,Adalena,1,Ahmedabad,Guj,India,403,20130101,52415,122435,1,401,1,4,3,54,57,3
+IMI-404,Abbiegail,F,ITM-404,Nirma Soap,18,21,LOC-B1,X-Mart,RingRoad,Ahmedabad,Guj,India,SP-DMNGR2,Adalene,1,Ahmedabad,Guj,India,404,20130101,52415,122435,1,402,1,4,2,11,13,2
+IMI-405,Abbiegale,F,ITM-405,Arial Washing Powder,135,138,LOC-B1,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSVR1,Adaley,1,Ahmedabad,Guj,India,405,20130101,52415,122435,1,403,4,1,1,42,44,2
+IMI-406,Abbiegayle,F,ITM-406,Wheat Floor,21,24,LOC-B2,X-Mart,S.P. RingRoad,Ahmedabad,Guj,India,SP-DMSPR1,Adaleya,1,Ahmedabad,Guj,India,406,20130101,44214,121907,2,404,5,1,3,54,56,2
+IMI-407,Abbigael,F,ITM-407,Rice Grains,32,35,LOC-B3,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSPR2,Adaleyza,1,Ahmedabad,Guj,India,407,20130101,53423,122159,3,405,1,1,3,54,57,3
+IMI-408,Abbigail,F,ITM-408,SunFlower Oil,50,53,LOC-B5,X-Mart,Sivranjani,Ahmedabad,Guj,India,SP-DMNGR1,Adalhi,3,Ahmedabad,Guj,India,408,20130101,55562,143335,3,406,4,1,2,11,14,3
+IMI-409,Abbigaile,F,ITM-409,Nirma Soap,20,23,LOC-B2,X-Mart,RingRoad,Ahmedabad,Guj,India,SP-DMNGR2,Adali,3,Ahmedabad,Guj,India,409,20130101,44347,143335,3,407,2,2,1,42,44,2
+IMI-410,Abbigal,F,ITM-410,Arial Washing Powder,15.5,18.5,LOC-B1,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSVR1,Adalia,3,Ahmedabad,Guj,India,410,20130101,44519,143335,4,408,3,2,3,54,67,13
+IMI-411,Abbigale,F,ITM-411,Wheat Floor,5.5,8.5,LOC-B5,X-Mart,S.P. RingRoad,Ahmedabad,Guj,India,SP-DMSPR1,Adaliah,2,Ahmedabad,Guj,India,411,20130101,52415,13243,5,409,4,2,2,11,13,2
+IMI-412,Abbigayl,F,ITM-412,Rice Grains,22.5,25.5,LOC-B2,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSPR2,Adalicia,2,Ahmedabad,Guj,India,412,20130101,52415,13243,5,410,5,2,3,54,58,4
+IMI-413,Abbigayle,F,ITM-413,SunFlower Oil,42,45,LOC-B4,X-Mart,Sivranjani,Ahmedabad,Guj,India,SP-DMNGR1,Adalid,2,Ahmedabad,Guj,India,413,20130101,52415,13243,5,411,2,3,2,11,14,3
+IMI-414,Abbilyn,F,ITM-414,Nirma Soap,18,21,LOC-B1,X-Mart,RingRoad,Ahmedabad,Guj,India,SP-DMNGR2,Adalida,2,Ahmedabad,Guj,India,414,20130101,44214,13243,5,412,3,3,1,42,46,4
+IMI-415,Abbot,M,ITM-415,Arial Washing Powder,135,138,LOC-B1,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSVR1,Adalie,1,Ahmedabad,Guj,India,415,20130101,53423,122435,4,413,1,1,2,11,13,2
+IMI-416,Abbott,M,ITM-416,Wheat Floor,21,24,LOC-B2,X-Mart,S.P. RingRoad,Ahmedabad,Guj,India,SP-DMSPR1,Adaliene,1,Ahmedabad,Guj,India,416,20130101,55562,122435,4,414,6,1,3,54,60,6
+IMI-417,Abbra,F,ITM-417,Rice Grains,32,35,LOC-B3,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSPR2,Adalin,2,Ahmedabad,Guj,India,417,20130101,44347,122435,1,415,9,2,2,11,13,2
+IMI-418,Abbriella,F,ITM-418,SunFlower Oil,50,53,LOC-B5,X-Mart,Sivranjani,Ahmedabad,Guj,India,SP-DMNGR1,Adalina,2,Ahmedabad,Guj,India,418,20130101,44519,122435,1,416,12,2,1,42,43.5,1.5
+IMI-419,Abbrielle,F,ITM-419,Nirma Soap,20,23,LOC-B2,X-Mart,RingRoad,Ahmedabad,Guj,India,SP-DMNGR2,Adalind,3,Ahmedabad,Guj,India,419,20130101,52415,122435,1,417,2,2,3,54,56,2
+IMI-420,Abby,F,ITM-420,Arial Washing Powder,15.5,18.5,LOC-B1,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSVR1,Adalinda,2,Ahmedabad,Guj,India,420,20130101,52415,122435,1,418,3,3,2,11,13,2
+IMI-421,Abbye,F,ITM-421,Wheat Floor,5.5,8.5,LOC-B5,X-Mart,S.P. RingRoad,Ahmedabad,Guj,India,SP-DMSPR1,Adaline,1,Ahmedabad,Guj,India,421,20130101,52415,121907,1,419,4,3,3,54,57,3
+IMI-422,Abbygael,F,ITM-422,Rice Grains,22.5,25.5,LOC-B2,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSPR2,Adalinn,1,Ahmedabad,Guj,India,422,20130101,44214,122159,2,420,1,5,2,11,13,2
+IMI-423,Abbygail,F,ITM-423,SunFlower Oil,42,45,LOC-B4,X-Mart,Sivranjani,Ahmedabad,Guj,India,SP-DMNGR1,Adalinne,1,Ahmedabad,Guj,India,423,20130101,53423,143335,3,421,1,5,1,42,44,2
+IMI-424,Abbygaile,F,ITM-424,Nirma Soap,18,21,LOC-B1,X-Mart,RingRoad,Ahmedabad,Guj,India,SP-DMNGR2,Adalis,1,Ahmedabad,Guj,India,424,20130101,55562,143335,3,422,4,4,3,54,56,2
+IMI-425,Abbygale,F,ITM-425,Arial Washing Powder,135,138,LOC-B1,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSVR1,Adalisa,1,Ahmedabad,Guj,India,425,20130101,44347,143335,3,423,5,4,3,54,57,3
+IMI-426,Abbygayl,F,ITM-426,Wheat Floor,21,24,LOC-B2,X-Mart,S.P. RingRoad,Ahmedabad,Guj,India,SP-DMSPR1,Adalise,3,Ahmedabad,Guj,India,426,20130101,44519,13243,4,424,11,4,2,11,14,3
+IMI-427,Abbygayle,F,ITM-427,Rice Grains,32,35,LOC-B3,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSPR2,Adalisse,3,Ahmedabad,Guj,India,427,20130101,52415,13243,5,425,7,4,1,42,44,2
+IMI-428,Abbylynn,F,ITM-428,SunFlower Oil,50,53,LOC-B5,X-Mart,Sivranjani,Ahmedabad,Guj,India,SP-DMNGR1,Adalius,3,Ahmedabad,Guj,India,428,20130101,52415,13243,5,426,8,1,3,54,67,13
+IMI-429,Abcde,F,ITM-429,Nirma Soap,20,23,LOC-B2,X-Mart,RingRoad,Ahmedabad,Guj,India,SP-DMNGR2,Adaliyah,2,Ahmedabad,Guj,India,429,20130101,52415,13243,5,427,9,1,2,11,13,2
+IMI-430,Abd,M,ITM-430,Arial Washing Powder,15.5,18.5,LOC-B1,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSVR1,Adaliz,2,Ahmedabad,Guj,India,430,20130101,44214,122435,5,428,13,1,3,54,58,4
+IMI-431,Abdala,M,ITM-431,Wheat Floor,5.5,8.5,LOC-B5,X-Mart,S.P. RingRoad,Ahmedabad,Guj,India,SP-DMSPR1,Adalize,2,Ahmedabad,Guj,India,431,20130101,53423,122435,4,429,1,1,2,11,14,3
+IMI-432,Abdalah,M,ITM-432,Rice Grains,22.5,25.5,LOC-B2,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSPR2,Adallyn,2,Ahmedabad,Guj,India,432,20130101,55562,122435,4,430,4,2,1,42,46,4
+IMI-433,Abdalla,M,ITM-433,SunFlower Oil,42,45,LOC-B4,X-Mart,Sivranjani,Ahmedabad,Guj,India,SP-DMNGR1,Adaly,1,Ahmedabad,Guj,India,433,20130101,44347,122435,1,431,2,2,2,11,13,2
+IMI-434,Abdallah,M,ITM-434,Nirma Soap,18,21,LOC-B1,X-Mart,RingRoad,Ahmedabad,Guj,India,SP-DMNGR2,Adalya,1,Ahmedabad,Guj,India,434,20130101,44519,122435,1,432,3,2,3,54,60,6
+IMI-435,Abdalrahman,M,ITM-435,Arial Washing Powder,135,138,LOC-B1,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSVR1,Adalye,2,Ahmedabad,Guj,India,435,20130101,52415,122435,1,433,4,2,2,11,13,2
+IMI-436,Abdalrhman,M,ITM-436,Wheat Floor,21,24,LOC-B2,X-Mart,S.P. RingRoad,Ahmedabad,Guj,India,SP-DMSPR1,Adalyn,2,Ahmedabad,Guj,India,436,20130101,52415,121907,1,434,5,3,1,42,43.5,1.5
+IMI-437,Abdel,M,ITM-437,Rice Grains,32,35,LOC-B3,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSPR2,Adalyna,3,Ahmedabad,Guj,India,437,20130101,52415,122159,1,435,2,3,3,54,56,2
+IMI-438,Abdelaziz,M,ITM-438,SunFlower Oil,50,53,LOC-B5,X-Mart,Sivranjani,Ahmedabad,Guj,India,SP-DMNGR1,Adalynd,2,Ahmedabad,Guj,India,438,20130101,44214,143335,2,436,3,1,2,11,13,2
+IMI-439,Abdelhadi,M,ITM-439,Nirma Soap,20,23,LOC-B2,X-Mart,RingRoad,Ahmedabad,Guj,India,SP-DMNGR2,Adalyne,1,Ahmedabad,Guj,India,439,20130101,53423,143335,3,437,1,1,3,54,57,3
+IMI-440,Abdelkareem,M,ITM-440,Arial Washing Powder,15.5,18.5,LOC-B1,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSVR1,Adalynn,1,Ahmedabad,Guj,India,440,20130101,55562,143335,3,438,6,2,2,11,13,2
+IMI-441,Abdelkarim,M,ITM-441,Wheat Floor,5.5,8.5,LOC-B5,X-Mart,S.P. RingRoad,Ahmedabad,Guj,India,SP-DMSPR1,Adalynne,1,Ahmedabad,Guj,India,441,20130101,44347,13243,3,439,9,2,1,42,44,2
+IMI-442,Abdellah,M,ITM-442,Rice Grains,22.5,25.5,LOC-B2,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSPR2,Adalys,1,Ahmedabad,Guj,India,442,20130101,44519,13243,4,440,12,2,3,54,56,2
+IMI-443,Abdelrahman,M,ITM-443,SunFlower Oil,42,45,LOC-B4,X-Mart,Sivranjani,Ahmedabad,Guj,India,SP-DMNGR1,Adalyse,1,Ahmedabad,Guj,India,443,20130101,52415,13243,5,441,2,3,3,54,57,3
+IMI-444,Abdelrhman,M,ITM-444,Nirma Soap,18,21,LOC-B1,X-Mart,RingRoad,Ahmedabad,Guj,India,SP-DMNGR2,Adam,3,Ahmedabad,Guj,India,444,20130101,52415,13243,5,442,3,3,2,11,14,3
+IMI-445,Abderrahman,M,ITM-445,Arial Washing Powder,135,138,LOC-B1,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSVR1,Adama,3,Ahmedabad,Guj,India,445,20130101,52415,122435,5,443,4,5,1,42,44,2
+IMI-446,Abdi,M,ITM-446,Wheat Floor,21,24,LOC-B2,X-Mart,S.P. RingRoad,Ahmedabad,Guj,India,SP-DMSPR1,Adamae,3,Ahmedabad,Guj,India,446,20130101,44214,122435,5,444,1,5,3,54,67,13
+IMI-447,Abdias,M,ITM-447,Rice Grains,32,35,LOC-B3,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSPR2,Adamari,2,Ahmedabad,Guj,India,447,20130101,53423,122435,4,445,1,4,2,11,13,2
+IMI-448,Abdiasis,M,ITM-448,SunFlower Oil,50,53,LOC-B5,X-Mart,Sivranjani,Ahmedabad,Guj,India,SP-DMNGR1,Adamarie,2,Ahmedabad,Guj,India,448,20130101,55562,122435,4,446,4,4,3,54,58,4
+IMI-449,Abdiaziz,M,ITM-449,Nirma Soap,20,23,LOC-B2,X-Mart,RingRoad,Ahmedabad,Guj,India,SP-DMNGR2,Adamaris,2,Ahmedabad,Guj,India,449,20130101,44347,122435,1,447,5,4,2,11,14,3
+IMI-450,Abdiel,M,ITM-450,Arial Washing Powder,15.5,18.5,LOC-B1,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSVR1,Adamariz,2,Ahmedabad,Guj,India,450,20130101,44519,122435,1,448,1,4,1,42,46,4
+IMI-451,Abdifatah,M,ITM-451,Wheat Floor,5.5,8.5,LOC-B5,X-Mart,S.P. RingRoad,Ahmedabad,Guj,India,SP-DMSPR1,Adamary,1,Ahmedabad,Guj,India,451,20130101,52415,121907,1,449,4,1,2,11,13,2
+IMI-452,Abdihafid,M,ITM-452,Rice Grains,22.5,25.5,LOC-B2,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSPR2,Adamarys,1,Ahmedabad,Guj,India,452,20130101,52415,122159,1,450,2,1,3,54,60,6
+IMI-453,Abdihakim,M,ITM-453,SunFlower Oil,42,45,LOC-B4,X-Mart,Sivranjani,Ahmedabad,Guj,India,SP-DMNGR1,Adamina,2,Ahmedabad,Guj,India,453,20130101,52415,143335,1,451,3,1,2,11,13,2
+IMI-454,Abdihamid,M,ITM-454,Nirma Soap,18,21,LOC-B1,X-Mart,RingRoad,Ahmedabad,Guj,India,SP-DMNGR2,Adamm,2,Ahmedabad,Guj,India,454,20130101,44214,143335,2,452,4,1,1,42,43.5,1.5
+IMI-455,Abdikadir,M,ITM-455,Arial Washing Powder,135,138,LOC-B1,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSVR1,Adamma,3,Ahmedabad,Guj,India,455,20130101,53423,143335,3,453,5,2,3,54,56,2
+IMI-456,Abdikarim,M,ITM-456,Wheat Floor,21,24,LOC-B2,X-Mart,S.P. RingRoad,Ahmedabad,Guj,India,SP-DMSPR1,Adammichael,2,Ahmedabad,Guj,India,456,20130101,55562,13243,3,454,2,2,2,11,13,2
+IMI-457,Abdikhaliq,M,ITM-457,Rice Grains,32,35,LOC-B3,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSPR2,Adamo,1,Ahmedabad,Guj,India,457,20130101,44347,13243,3,455,3,2,3,54,57,3
+IMI-458,Abdilahi,M,ITM-458,SunFlower Oil,50,53,LOC-B5,X-Mart,Sivranjani,Ahmedabad,Guj,India,SP-DMNGR1,Adams,1,Ahmedabad,Guj,India,458,20130101,44519,13243,4,456,1,2,2,11,13,2
+IMI-459,Abdimalik,M,ITM-459,Nirma Soap,20,23,LOC-B2,X-Mart,RingRoad,Ahmedabad,Guj,India,SP-DMNGR2,Adan,1,Ahmedabad,Guj,India,459,20130101,52415,13243,5,457,6,3,1,42,44,2
+IMI-460,Abdinajib,M,ITM-460,Arial Washing Powder,15.5,18.5,LOC-B1,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSVR1,Adana,1,Ahmedabad,Guj,India,460,20130101,52415,122435,5,458,9,3,3,54,56,2
+IMI-461,Abdinasir,M,ITM-461,Wheat Floor,5.5,8.5,LOC-B5,X-Mart,S.P. RingRoad,Ahmedabad,Guj,India,SP-DMSPR1,Adaneli,1,Ahmedabad,Guj,India,461,20130101,52415,122435,5,459,12,1,3,54,57,3
+IMI-462,Abdiqani,M,ITM-462,Rice Grains,22.5,25.5,LOC-B2,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSPR2,Adanelly,3,Ahmedabad,Guj,India,462,20130101,44214,122435,5,460,2,1,2,11,14,3
+IMI-463,Abdirahim,M,ITM-463,SunFlower Oil,42,45,LOC-B4,X-Mart,Sivranjani,Ahmedabad,Guj,India,SP-DMNGR1,Adanely,3,Ahmedabad,Guj,India,463,20130101,53423,122435,4,461,3,2,1,42,44,2
+IMI-464,Abdirahin,M,ITM-464,Nirma Soap,18,21,LOC-B1,X-Mart,RingRoad,Ahmedabad,Guj,India,SP-DMNGR2,Adanna,3,Ahmedabad,Guj,India,464,20130101,55562,122435,4,462,4,2,3,54,67,13
+IMI-465,Abdirahman,M,ITM-465,Arial Washing Powder,135,138,LOC-B1,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSVR1,Adannaya,2,Ahmedabad,Guj,India,465,20130101,44347,122435,1,463,1,2,2,11,13,2
+IMI-466,Abdirashid,M,ITM-466,Wheat Floor,21,24,LOC-B2,X-Mart,S.P. RingRoad,Ahmedabad,Guj,India,SP-DMSPR1,Adante,2,Ahmedabad,Guj,India,466,20130101,44519,121907,1,464,1,3,3,54,58,4
+IMI-467,Abdirisaq,M,ITM-467,Rice Grains,32,35,LOC-B3,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSPR2,Adanya,2,Ahmedabad,Guj,India,467,20130101,52415,122159,1,465,4,3,2,11,14,3
+IMI-468,Abdirizak,M,ITM-468,SunFlower Oil,50,53,LOC-B5,X-Mart,Sivranjani,Ahmedabad,Guj,India,SP-DMNGR1,Adaobi,2,Ahmedabad,Guj,India,468,20130101,52415,143335,1,466,5,5,1,42,46,4
+IMI-469,Abdisalam,M,ITM-469,Nirma Soap,20,23,LOC-B2,X-Mart,RingRoad,Ahmedabad,Guj,India,SP-DMNGR2,Adaora,1,Ahmedabad,Guj,India,469,20130101,52415,143335,1,467,11,5,2,11,13,2
+IMI-470,Abdisalan,M,ITM-470,Arial Washing Powder,15.5,18.5,LOC-B1,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSVR1,Adar,1,Ahmedabad,Guj,India,470,20130101,44214,143335,2,468,7,4,3,54,60,6
+IMI-471,Abdisamad,M,ITM-471,Wheat Floor,5.5,8.5,LOC-B5,X-Mart,S.P. RingRoad,Ahmedabad,Guj,India,SP-DMSPR1,Adalye,2,Ahmedabad,Guj,India,471,20130101,53423,13243,3,469,8,4,2,11,13,2
+IMI-472,Abdishakur,M,ITM-472,Rice Grains,22.5,25.5,LOC-B2,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSPR2,Adalyn,2,Ahmedabad,Guj,India,472,20130101,55562,13243,3,470,9,4,1,42,43.5,1.5
+IMI-473,Abdiwahab,M,ITM-473,SunFlower Oil,42,45,LOC-B4,X-Mart,Sivranjani,Ahmedabad,Guj,India,SP-DMNGR1,Adalyna,3,Ahmedabad,Guj,India,473,20130101,44347,13243,3,471,13,4,3,54,56,2
+IMI-474,Abdiwali,M,ITM-474,Nirma Soap,18,21,LOC-B1,X-Mart,RingRoad,Ahmedabad,Guj,India,SP-DMNGR2,Adalynd,2,Ahmedabad,Guj,India,474,20130101,44519,13243,4,472,1,1,2,11,13,2
+IMI-475,Abdo,M,ITM-475,Arial Washing Powder,135,138,LOC-B1,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSVR1,Adalyne,1,Ahmedabad,Guj,India,475,20130101,52415,122435,5,473,4,1,3,54,57,3
+IMI-476,Abdon,M,ITM-476,Wheat Floor,21,24,LOC-B2,X-Mart,S.P. RingRoad,Ahmedabad,Guj,India,SP-DMSPR1,Adalynn,1,Ahmedabad,Guj,India,476,20130101,52415,122435,5,474,2,1,2,11,13,2
+IMI-477,Abdou,M,ITM-477,Rice Grains,32,35,LOC-B3,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSPR2,Adalynne,1,Ahmedabad,Guj,India,477,20130101,52415,122435,5,475,3,1,1,42,44,2
+IMI-478,Abdoul,M,ITM-478,SunFlower Oil,50,53,LOC-B5,X-Mart,Sivranjani,Ahmedabad,Guj,India,SP-DMNGR1,Adalys,1,Ahmedabad,Guj,India,478,20130101,44214,122435,5,476,4,2,3,54,56,2
+IMI-479,Abdoulaye,M,ITM-479,Nirma Soap,20,23,LOC-B2,X-Mart,RingRoad,Ahmedabad,Guj,India,SP-DMNGR2,Adalyse,1,Ahmedabad,Guj,India,479,20130101,53423,122435,4,477,5,2,3,54,57,3
+IMI-480,Abdoulaziz,M,ITM-480,Arial Washing Powder,15.5,18.5,LOC-B1,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSVR1,Adam,3,Ahmedabad,Guj,India,480,20130101,55562,122435,4,478,2,2,2,11,14,3
+IMI-481,Abdoulie,M,ITM-481,Wheat Floor,5.5,8.5,LOC-B5,X-Mart,S.P. RingRoad,Ahmedabad,Guj,India,SP-DMSPR1,Adama,3,Ahmedabad,Guj,India,481,20130101,44347,121907,1,479,3,2,1,42,44,2
+IMI-482,Abdourahman,M,ITM-482,Rice Grains,22.5,25.5,LOC-B2,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSPR2,Adamae,3,Ahmedabad,Guj,India,482,20130101,44519,122159,1,480,1,3,3,54,67,13
+IMI-483,Abdourahmane,M,ITM-483,SunFlower Oil,42,45,LOC-B4,X-Mart,Sivranjani,Ahmedabad,Guj,India,SP-DMNGR1,Adamari,2,Ahmedabad,Guj,India,483,20130101,52415,143335,1,481,6,3,2,11,13,2
+IMI-484,Abdrahman,M,ITM-484,Nirma Soap,18,21,LOC-B1,X-Mart,RingRoad,Ahmedabad,Guj,India,SP-DMNGR2,Adamarie,2,Ahmedabad,Guj,India,484,20130101,52415,143335,1,482,9,1,3,54,58,4
+IMI-485,Abdrew,M,ITM-485,Arial Washing Powder,135,138,LOC-B1,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSVR1,Adamaris,2,Ahmedabad,Guj,India,485,20130101,52415,143335,1,483,12,1,2,11,14,3
+IMI-486,Abdu,M,ITM-486,Wheat Floor,21,24,LOC-B2,X-Mart,S.P. RingRoad,Ahmedabad,Guj,India,SP-DMSPR1,Adamariz,2,Ahmedabad,Guj,India,486,20130101,44214,13243,2,484,2,2,1,42,46,4
+IMI-487,Abdual,M,ITM-487,Rice Grains,32,35,LOC-B3,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSPR2,Adamary,1,Ahmedabad,Guj,India,487,20130101,53423,13243,3,485,3,2,2,11,13,2
+IMI-488,Abduallah,M,ITM-488,SunFlower Oil,50,53,LOC-B5,X-Mart,Sivranjani,Ahmedabad,Guj,India,SP-DMNGR1,Adamarys,1,Ahmedabad,Guj,India,488,20130101,55562,13243,3,486,4,2,3,54,60,6
+IMI-489,Abduel,M,ITM-489,Nirma Soap,20,23,LOC-B2,X-Mart,RingRoad,Ahmedabad,Guj,India,SP-DMNGR2,Adamina,2,Ahmedabad,Guj,India,489,20130101,44347,13243,3,487,1,3,2,11,13,2
+IMI-490,Abdul,M,ITM-490,Arial Washing Powder,15.5,18.5,LOC-B1,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSVR1,Adamm,2,Ahmedabad,Guj,India,490,20130101,44519,122435,4,488,1,3,1,42,43.5,1.5
+IMI-491,Abdula,M,ITM-491,Wheat Floor,5.5,8.5,LOC-B5,X-Mart,S.P. RingRoad,Ahmedabad,Guj,India,SP-DMSPR1,Adamma,3,Ahmedabad,Guj,India,491,20130101,52415,122435,5,489,4,5,3,54,56,2
+IMI-492,Abdulah,M,ITM-492,Rice Grains,22.5,25.5,LOC-B2,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSPR2,Adammichael,2,Ahmedabad,Guj,India,492,20130101,52415,122435,5,490,5,5,2,11,13,2
+IMI-493,Abdulahad,M,ITM-493,SunFlower Oil,42,45,LOC-B4,X-Mart,Sivranjani,Ahmedabad,Guj,India,SP-DMNGR1,Adamo,1,Ahmedabad,Guj,India,493,20130101,52415,122435,5,491,1,4,3,54,57,3
+IMI-494,Abdulahi,M,ITM-494,Nirma Soap,18,21,LOC-B1,X-Mart,RingRoad,Ahmedabad,Guj,India,SP-DMNGR2,Adams,1,Ahmedabad,Guj,India,494,20130101,44214,122435,5,492,4,4,2,11,13,2
+IMI-495,Abdulai,M,ITM-495,Arial Washing Powder,135,138,LOC-B1,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSVR1,Adan,1,Ahmedabad,Guj,India,495,20130101,53423,122435,4,493,2,4,1,42,44,2
+IMI-496,Abdulaye,M,ITM-496,Wheat Floor,21,24,LOC-B2,X-Mart,S.P. RingRoad,Ahmedabad,Guj,India,SP-DMSPR1,Adana,1,Ahmedabad,Guj,India,496,20130101,55562,121907,4,494,3,4,3,54,56,2
+IMI-497,Abdulazeem,M,ITM-497,Rice Grains,32,35,LOC-B3,X-Mart,Maninagar,Ahmedabad,Guj,India,SP-DMSPR2,Adaneli,1,Ahmedabad,Guj,India,497,20130101,44347,122159,1,495,4,1,3,54,57,3
+IMI-498,Abdulazeez,M,ITM-498,SunFlower Oil,50,53,LOC-B5,X-Mart,Sivranjani,Ahmedabad,Guj,India,SP-DMNGR1,Adanelly,3,Ahmedabad,Guj,India,498,20130101,44519,143335,1,496,5,1,2,11,14,3
+IMI-499,Abdulaziz,M,ITM-499,Nirma Soap,20,23,LOC-B2,X-Mart,RingRoad,Ahmedabad,Guj,India,SP-DMNGR2,Adanely,3,Ahmedabad,Guj,India,499,20130101,52415,143335,1,497,2,1,1,42,44,2
